@@ -1,0 +1,1402 @@
+Tweet;Target;pred_target;dependencia;pred_entidad
+Repsol empezará a enviar crudo desde Venezuela a Europa;Repsol;Repsol;nsubj;ORG
+Tras vetar el petróleo de Moscú todos miran al gas la ruleta rusa del corte energético;gas;gas;obj;OTHER
+Las demoras de Bruselas Madrid y Lisboa retrasan el plan para abaratar la luz;luz;luz;obj;OTHER
+La gran banca se iguala en rentabilidad a las grandes entidades de Europa y EE UU;banca;banca;nsubj;OTHER
+Wall Street reacciona con caídas a los buenos datos de empleo de mayo en Estados Unidos;Wall Street;Wall;nsubj;LOC
+La SEPI compra a los March un 321 de Indra para reforzar su posición en la tecnológica;SEPI;SEPI;nsubj;ORG
+Las grandes operadoras de telefonía desguazan sus redes para tapar deudas y lo pagarán en el futuro;operadoras telefonía;operadoras;nsubj;OTHER
+Nueva ola de inflación energética;inflación energética;None;None;None
+Los cables rotos de las telecos por qué sus ingresos caen aunque sus servicios son cada vez más demandados;telecos;telecos;obj;OTHER
+La falta de gasoil lastra la producción agropecuaria en Argentina;gasoil;None;None;None
+Estados Unidos sigue creando empleo a toda máquina pese a la subida de tipos de interés;empleo;empleo;obj;OTHER
+Marie Claire recibe otros 12 millones de euros de ayuda pública;Marie Claire;Marie;nsubj;PER
+Alemania aprueba la subida del salario mínimo a 12 euros la hora a partir de octubre;salario mínimo;None;None;None
+Brookfield amplía su cartera en España y adquiere un hotel en Madrid por 175 millones;Brookfield;Brookfield;nsubj;ORG
+España libera cuatro millones de barriles de crudo de sus reservas en plena tormenta de precios;España;España;nsubj;LOC
+Musk se plantea despedir a 10000 empleados de Tesla por un presentimiento supermalo sobre la economía;Tesla;None;None;None
+El TJUE exime a Amazon de responsabilidad sobre las falsificaciones vendidas en su tienda;Amazon;Amazon;obj;ORG
+100 días de guerra en Ucrania un devastador tsunami económico;guerra;None;None;None
+Los fijos discontinuos no cuentan como parados por una orden de 1985 aunque estén inactivos;fijos discontinuos;fijos;nsubj;OTHER
+Metro de Madrid pide ofertas para la seguridad privada en sus 300 estaciones por 265 millones;seguridad privada;None;None;None
+Bruselas da luz verde a la nueva línea de 10000 millones en avales del ICO;ICO;None;None;None
+OHLA alerta de la falta preocupante de obreros de la construcción;construcción;None;None;None
+Paradores deberá pagar los complementos que quitó a su plantilla durante el estado de alarma;Paradores;Paradores;nsubj;OTHER
+La china Envision y Acciona Energía proyectan una planta de baterías en Extremadura;Extremadura;None;None;None
+Shein revoluciona Madrid con su primera tienda popup por cuatro días;Shein;Shein;nsubj;PER
+El Gobierno pacta con Bildu subir las pensiones no contributivas un 15;pensiones;pensiones;obj;OTHER
+Iberia se hará con el 20 de Air Europa antes de que acabe el año tras recibir el visto bueno de la SEPI;Iberia;Iberia;nsubj;ORG
+Locura por la ropa de Shein en Madrid Es todo bueno bonito y barato;Shein;None;None;None
+Estados Unidos sigue creando empleo a toda máquina pese a la subida de tipos de interés;empleo;empleo;obj;OTHER
+La megafactoría de baterías de Extremadura tendrá una inversión inicial de 1000 millones;baterías Extremadura;None;None;None
+Vodafone ofrecerá también luz con energía 100 renovable;luz;luz;obj;OTHER
+El CES tacha de ineficaz y regresiva la bonificación a los combustibles;combustibles;None;None;None
+La sequía el calor y los abonos caros recortan la cosecha de cereales;cosecha cereales;cosecha;obj;OTHER
+Los hoteleros critican a Belarra tras anunciar que congelará los precios del Imserso;precios del Imserso;precios;obj;OTHER
+El Banco de España insiste en que faltan medidas para asegurar la sostenibilidad de las pensiones;pensiones;None;None;None
+Las matriculaciones de turismos caen un 11 en mayo por la crisis de los microchips y la incertidumbre económica;turismos;None;None;None
+Vodafone España entra en el negocio de electricidad con descuentos de hasta el 25;Vodafone;Vodafone;nsubj;OTHER
+Telefónica avanza en la búsqueda de un socio para su fibra rural;Telefónica;Telefónica;nsubj;ORG
+La inflación no puede con las botas Dr Martens sube precios y eleva previsiones;Dr Martens;None;None;None
+El embargo al petróleo ruso añade presión sobre los precios y ensombrece las perspectivas económicas europeas;perspectivas económicas;perspectivas;obj;OTHER
+Jobandtalent la compañía española que nació delante de un café moca blanco y hoy vale 2000 millones de euros;Jobandtalent;Jobandtalent;nsubj;PER
+La galletera Siro plantea un cierre que afectará a 200 empleados en Palencia;empleados Palencia;empleados;obj;OTHER
+Rusia se asoma al abismo de la suspensión de pagos;Rusia;Rusia;nsubj;ORG
+El langostino impulsa las ventas en Nueva Pescanova que vuelve a beneficios;Nueva Pescanova;None;None;None
+Iberia inaugura su vuelo a Washington con biocombustible de Repsol;Repsol;None;None;None
+Alquileres más caros la falta de oferta de vivienda provocará en 2022 un repunte del 6 en los precios;alquileres;None;None;None
+ El paro baja por primera vez de los tres millones desde 2008 tras reducirse en 100000 personas en mayo;paro;paro;nsubj;OTHER
+El grupo Puig compra la firma sueca de lujo Byredo valorada en 1000 millones;grupo Puig;grupo;nsubj;OTHER
+MásMóvil dispara un 39 sus ingresos por la integración de Euskaltel;MásMóvil;MásMóvil;nsubj;ORG
+Gasóleo más caro pero garantizado así afectará a los españoles el veto al petróleo ruso;Gasóleo;Gasóleo;nsubj;OTHER
+Adolfo Domínguez refuerza la dirección con Antonio Puente y amplía el plan de incentivos;Adolfo Domínguez;Adolfo;nsubj;PER
+Madrid es la comunidad más favorecida con la inversión estatal en la era Sánchez;Madrid;Madrid;nsubj;LOC
+El euríbor sube sin tregua en mayo y dispara el coste de la hipoteca media en 600 euros al año;euríbor;euríbor;nsubj;OTHER
+La inflación en la zona euro supera el 8 por primera vez desde la creación de la moneda única;inflación;inflación;nsubj;OTHER
+Llegan menos turistas pero gastan más el desembolso de los visitantes extranjeros se disparó en Semana Santa;desembolso extranjeros;desembolso;obj;OTHER
+Orange lanza una ofensiva low cost con Simyo con tarifas convergentes desde 29 euros;Orange;Orange;nsubj;ORG
+El Corte Inglés reduce su deuda en 1010 millones con la entrada de Mutua en su capital;deuda;deuda;obj;OTHER
+La ruptura comercial con Rusia restaría hasta 24 puntos al PIB según el Banco de España;PIB;PIB;obj;MISC
+La familia Jove vuelve a situarse entre los grandes del ladrillo;Jove;None;None;None
+La ruptura total del comercio con Rusia restaría hasta un 21 a la economía española;economía española;economía;obj;OTHER
+Cellnex confirma su interés en comprar las torres de Deutsche Telekom;Cellnex;Cellnex;nsubj;ORG
+El déficit público se reduce en 16000 millones en marzo por el tirón de los ingresos;déficit público;déficit;nsubj;OTHER
+La filial financiera de Telefónica y CaixaBank cuadruplica beneficio e incorpora nuevo consejero;beneficio;beneficio;obj;OTHER
+El precio disparado del butano ahoga a los hogares En lugar de tres bombonas al mes ahora consumo dos;butano;None;None;None
+La inflación y la mejora de empleo y salarios disparan la recaudación de impuestos;impuestos;None;None;None
+Crece la factura de la crisis bancaria;factura;factura;nsubj;OTHER
+Técnicas Reunidas coge aire tras el rescate público;Técnicas Reunidas;Técnicas;nsubj;OTHER
+El Estado central solo ejecutó el 36 de las inversiones presupuestadas en Cataluña mientras las duplicó en Madrid;Cataluña;None;None;None
+Castellana Properties vuelve al club de las socimis milmillonarias;Castellana Properties;Castellana;nsubj;ORG
+El sector gasista calcula que el biometano podría cubrir la tercera parte de la demanda en España;biometano;biometano;nsubj;OTHER
+El Gobierno obligará a las empresas a no hacer esperar a sus clientes más de tres minutos al teléfono;empresas;None;None;None
+El efecto divisa da un respiro a las empresas españolas más internacionalizadas y ahoga a otras;empresas españolas;empresas;obj;OTHER
+El precio de la luz sube ligeramente este lunes pero se mantiene por debajo de los 200 euros;luz;None;None;None
+El complemento para prejubilados con largas carreras de cotización alcanza a casi 99000 pensionistas;prejubilados;None;None;None
+Renfe invierte un millón de euros en la remodelación integral de la Sala Club de la estación de Atocha;Renfe;Renfe;nsubj;ORG
+El criptoinvierno pone en peligro la estabilidad de las plataformas de compraventa;plataformas de compraventa;None;None;None
+Los visados de obra nueva aumentaron un 1842 en el primer trimestre con el mejor marzo desde 2009;visados de obra;visados;nsubj;OTHER
+Minsait incorporará a 4000 profesionales en España este año lo que le permitirá consolidarse como el mayor empleador de perfiles tecnológicos del país;Minsait;Minsait;nsubj;ORG
+La filial brasileña de Iberdrola debutará en Latibex el próximo 7 de junio;Iberdrola;None;None;None
+El precio de la luz baja este domingo un 5 y se sitúa por debajo de los 200 euros el megavatio hora;luz;None;None;None
+El Ministerio de Transportes e ICO lanzan dos líneas de crédito para proyectos de movilidad sostenible;ministerio de Transportes;None;None;None
+Ciudadanos rechaza la subida al 15 de pensiones no contributivas No creemos que sea el momento;pensiones;None;None;None
+LoMásLeído  Las compras de Alemania a Rusia aumentaron un 599 hasta abril;compras;compras;nsubj;OTHER
+LoMásLeído  Musk planea recortar un 10 la plantilla de Tesla por un mal presentimiento sobre la economía;plantilla Tesla;plantilla;obj;OTHER
+La PMP considera positiva la subida del 15 en las pensiones no contributivas;pensiones;None;None;None
+La china Envision lidera un consorcio de 1000 millones que impulsará una gigafactoría en Extremadura;Extremadura;None;None;None
+Las ventas de coches en Alemania caen un 102 en mayo hasta 207199 unidades;venta de coches;None;None;None
+Allianz asumirá un impacto adverso de 400 millones tras vender el 501 de su negocio ruso a Interholding;Allianz;Allianz;nsubj;ORG
+Bristol Myers Squibb compra Turning Point Therapuetics por 3820 millones;Bristol Myers Squibb;Bristol;nsubj;ORG
+Empresarios iberoamericanos se comprometen a hacer una Iberoamérica más emprendedora conectada y sostenible;Ibeoamérica;None;None;None
+La CNMC da luz verde a la compra por parte de BBVA de 659 sucursales a Merlin por 2000 millones de euros;BBVA;None;None;None
+El Ibex35 rompe su racha de tres semanas consecutivas al alza con un retroceso del 23;#Ibex35;Ibex35;nsubj;OTHER
+Acerinox se deja más de un 3 en Bolsa tras confirmar conversaciones para una fusión con Aperam;Acerinox;Acerinox;nsubj;ORG
+Los servicios sostienen el crecimiento en la zona euro pero no espantan el riesgo de recesión según PMI;servicios;servicios;nsubj;OTHER
+Iberdrola avanza en la construcción de su parque eólico marino SaintBrieuc Francia;Iberdrola;Iberdrola;nsubj;ORG
+Banco Santander amortizará una emisión de cédulas hipotecarias de 2000 millones de euros;Banco Santander;Banco;nsubj;ORG
+Renfe estima en 305 millones de euros su ahorro para la sociedad en términos de impacto ambiental;Renfe;Renfe;nsubj;ORG
+Escrivá asegura que la subida del 15 de las pensiones no contributivas tiene todo el sentido;pensiones;None;None;None
+Scope Ratings mantiene la calificación de España en A con perspectiva estable;España;None;None;None
+El paro de Estados Unidos se mantiene en el 36 en mayo pero se crean 390000 empleos;paro;paro;nsubj;OTHER
+Expira el plazo regulatorio de espera para la compra de Twitter por Elon Musk;plazo;plazo;obj;OTHER
+El Euríbor arranca junio sobre el 045 en máximos de casi ocho años;Euríbor;Euríbor;nsubj;ORG
+SEPI compra a los March su participación en Indra y podrá nombrar un tercer consejero;SEPI;SEPI;nsubj;ORG
+España 53 se desmarca de la caída de las ventas minoristas en la eurozona 13 en el mes de abril;España;España;nsubj;LOC
+El precio de la luz cae este sábado un 5 y se sitúa en los 20386 eurosMWh;luz;None;None;None
+CCOO denuncia a Deutsche Bank España ante la Inspección de Trabajo por el registro horario;Deutsche Bank;Deutsche;obj;OTHER
+Los cambios de compañía eléctrica aumentaron un 50 en los últimos dos años según la CNMC;compañía eléctrica;None;None;None
+El Ibex35 cotiza plano en la media sesión sobre los 8700 puntos;#Ibex35;Ibex35;nsubj;OTHER
+Factum participada por Banco Santander impulsa una nueva línea de negocio de ciberseguridad para pymes;Factum;Factum;nsubj;ORG
+Santander y Dcoop firman un acuerdo para apoyar a más de 75000 socios agricultores y ganaderos;agricultores ganaderos;None;None;None
+Acerinox cae más de un 4 en Bolsa tras confirmar conversaciones muy preliminares para una fusión con Aperam;Acerinox;Acerinox;nsubj;ORG
+El número de mujeres emprendedoras superó en 2021 al de hombres por primera vez según el informe GEM;mujeres emprendedoras;None;None;None
+El 96 de los empleados de Vodafone España se adhiere al teletrabajo de tres días por semana;teletrabajo;teletrabajo;obj;OTHER
+El precio del alquiler sube un 14 en mayo en España según Idealista;precio alquiler;precio;nsubj;OTHER
+Cuatroochenta aprueba una ampliación de capital de hasta 8 millones de euros;Cuatroochenta;Cuatroochenta;nsubj;ORG
+La tasa de inflación de Turquía escala al 735;inflación;None;None;None
+Las compras de Alemania a Rusia aumentaron un 599 hasta abril;compras;compras;nsubj;OTHER
+La CNMV suspende la cotización de Acerinox ante una posible fusión con Aperam;cotización;cotización;obj;OTHER
+El Ibex35 despierta con una subida del 065 hasta los 8800 pendiente del informe de empleo de EEUU;#Ibex35;Ibex35;nsubj;OTHER
+Fluidra abonará un dividendo bruto de 043 euros el próximo 5 de julio;dividendo bruto;dividendo;obj;OTHER
+LoMásLeído  Gobierno pacta con Bildu subir pensiones no contributivas un 15 por su abstención al fondo de pensiones;pensiones;pensiones;obj;OTHER
+LoMásLeído  El paro baja de los 3 millones por primera vez desde 2008 tras reducirse en 99512 personas en mayo;paro;paro;nsubj;OTHER
+LoMásLeído  El precio de la gasolina toca un nuevo máximo histórico y se come ya un 75 de la subvención del Gobierno;gasolina;None;None;None
+Microsoft recorta previsiones trimestrales por el impacto adverso de un dólar más fuerte;Microsoft;Microsoft;nsubj;ORG
+El unicornio español de la ciberseguridad Devo levanta 93 millones tras casi duplicar sus ingresos anuales;Devo;None;None;None
+El PSOE intentará rectificar en el Congreso el destope de las bases de cotización que aprobó por error;PSOE;PSOE;nsubj;ORG
+Iberia genera más de 9300 millones de euros al PIB español según un informe de PwC;Iberia;Iberia;nsubj;ORG
+El PIB de Brasil se expande un 1 en el primer trimestre;PIB;PIB;nsubj;MISC
+SEPI y el sindicado bancario aprueban el préstamo de 100 millones de Iberia a Air Europa;Air Europa;Air;obj;ORG
+La OPEP bombeará un 50 más de petróleo en verano con Rusia y Arabia Saudí como principales productores;OPEP+;OPEP;nsubj;OTHER
+Ikea abrirá una tienda de 7500 metros cuadrados en Parque Corredor Madrid con 180 empleos;Ikea;Ikea;nsubj;ORG
+Galería Canalejas reabre sus puertas con tres plantas dedicadas a la moda al lujo y a la gastronomía;Galería Canalejas;Galería;nsubj;ORG
+Unión de Uniones advierte de que las altas temperaturas provocan la pérdida del 20 en la cosecha de cereales;cosecha cereales;None;None;None
+Renfe recibe el interés de 30 empresas para aliarse con su filial de Mercancías;Renfe;Renfe;nsubj;ORG
+El Gobierno pacta con Bildu su abstención en la ley de planes de pensiones a cambio de subir un 15 las no contributivas;pensiones;None;None;None
+Nueva Pescanova supera los 1000 millones de facturación en 2021 más que antes de la pandemia y duplica beneficios;Pescanova;None;None;None
+Funcas destaca que la afiliación encadena dos meses de fuerte crecimiento pese al fin de los ERTE;afiliación;afiliación;nsubj;OTHER
+Saitec inicia los trámites para instalar un parque eólico flotante piloto en aguas de la Costa Brava;Saitec;Saitec;nsubj;ORG
+El Ibex35 cierra la sesión prácticamente plano frente a los índices europeos que finalizan con aumentos;#Ibex35;Ibex35;nsubj;OTHER
+CEOE y Cepyme ven positivos los datos del paro pero alertan sobre la creación de falsas expectativas;paro;None;None;None
+El Congreso destopa las bases máximas de cotización por un error del PSOE;PSOE;None;None;None
+Maroto celebra el papel activo del turismo en la recuperación económica de España;turismo;None;None;None
+El Gobierno salva su ley de planes de pensiones con apoyo de PNV y PRC y la abstención de Vox y Bildu;Gobierno;Gobierno;nsubj;ORG
+Trabajo prevé que el paro siga reduciéndose en los próximos meses y destaca el efecto de la reforma laboral;paro;paro;nsubj;OTHER
+El bono español a 10 años rinde a su mayor nivel desde mediados de 2015 superando el 23;bono español;bono;nsubj;OTHER
+OHLA prevé crecer a un ritmo de dos concesiones al año a pesar de la incertidumbre económica;OHLA;OHLA;nsubj;ORG
+SIA Indra adquiere la extremeña Mobeel para crecer en identidad digital;SIA;SIA;nsubj;OTHER
+La mitad de consumidores españoles tiene en cuenta la sostenibilidad a la hora de realizar sus compras según un estudio;sostenibilidad;sostenibilidad;obj;OTHER
+SampP rebaja el rating de El Salvador y advierte de las vulnerabilidades financieras y de deuda del país;rating;rating;obj;OTHER
+Ucrania sube tipos al 25 en la primera intervención del banco central desde la invasión rusa;tipos;tipos;obj;OTHER
+Empleados de Repsol adquieren 134064 acciones de la compañía como parte del plan de incentivos;empleados Repsol;None;None;None
+Díaz replica al Banco de España que la mayoría de pensiones no llega a mil euros y defiende subirlas al IPC;pensiones;None;None;None
+El empleo en el sector fintech en España creció un 210 en el primer trimestre del año según un informe;empleo;empleo;nsubj;OTHER
+La demanda eléctrica baja en España un 04 en mayo según Red Eléctrica;eléctrica;None;None;None
+El Tesoro coloca 4761 millones y eleva el interés del bono a 10 años por encima del 21;interés;interés;obj;OTHER
+Repsol invertirá 105 millones en construir en Puertollano una fábrica pionera en España de super polímero;Repsol;Repsol;nsubj;ORG
+La industria de la moda duplicará sus inversiones tecnológicas para el 2030 GO;industria moda;industria;nsubj;OTHER
+El Abogado General del TUE exime de responsabilidad a Amazon por la venta de productos falsificados;Amazon;Amazon;obj;ORG
+Renfe adjudica a Acciona y Clece la limpieza de los trenes por 243 millones de euros;Acciona Clece;Acciona;obj;OTHER
+Díaz celebra los cambios intensos y rápidos en la calidad del empleo tras la reforma laboral;empleo;None;None;None
+El precio de la luz cae ligeramente este viernes pero se mantiene por encima de los 214 eurosMWh;luz;None;None;None
+UGT defiende que la mejora del empleo exige una subida generalizada de los salarios;salarios;None;None;None
+USO lamenta que se cree empleo débil y que el crecimiento sea a distintas velocidades;empleo;empleo;nsubj;OTHER
+ATA ve positivos los datos del paro pero destaca el frenazo en el número de nuevos autónomos;paro;None;None;None
+La inflación de la OCDE se disparó en abril al 92 en máximos de 34 años;inflación;inflación;nsubj;OTHER
+El Ibex35 avanza sobre los 8700 puntos 021 en la media sesión;#Ibex35;Ibex35;nsubj;OTHER
+Las ampliaciones de capital caen un 76 en abril y dejan el acumulado con una caída superior al 36;capital;None;None;None
+Los precios industriales de la eurozona registraron en abril una subida récord del 372;precios industriales;precios;nsubj;OTHER
+El 20 de las gasolineras se encuentra en riesgo de impago según Iberinform;gasolineras;None;None;None
+Sánchez celebra los datos y destaca que hay menos de tres millones de parados por primera vez desde 2008;parados;None;None;None
+Montero dice que es un magnífico dato y destaca que la economía es robusta y sigue creciendo;economía;economía;nsubj;OTHER
+ ÚLTIMAHORA  El precio de la gasolina toca un nuevo máximo histórico y se come ya un 75 de la subvención del Gobierno;gasolina;None;None;None
+Escrivá pone en valor el alza de afiliados en un contexto de incertidumbre e inflación persistente;afiliados;None;None;None
+La tecnológica AtSistemas saldrá a bolsa antes de que termine el año;AtSistemas;None;None;None
+Toshiba recibe diez propuestas de inversión incluyendo ocho para excluir de cotización la empresa;Toshiba;Toshiba;nsubj;ORG
+Las ejecuciones hipotecarias sobre viviendas habituales suben un 34 interanual en el primer trimestre;ejecuciones hipotecarias;ejecuciones;nsubj;OTHER
+El Ibex35 amanece con una subida del 043 y se aferra a los 8700 enteros con el crudo a la baja;#Ibex35;Ibex35;nsubj;OTHER
+ÚLTIMAHORA  La Seguridad Social registra su mejor mayo desde 2018 al ganar 213643 afiliados;Seguridad Social;None;None;None
+ÚLTIMAHORA  El paro baja de los 3 millones por primera vez desde 2008 tras reducirse en 99512 personas en mayo;paro;paro;nsubj;OTHER
+Sánchez recalca el crecimiento económico de España en la reunión con el presidente de Investcorp y llama a invertir;económico;None;None;None
+LoMásLeído  Garzón avanza que el Gobierno estudia hacer más selectiva la bonificación al combustible;Gobierno;Gobierno;nsubj;ORG
+LoMásLeído  El Tribunal de la UE avala la disolución de Banco Popular y rechaza devolver el dinero a los accionistas;accionistas;accionistas;obj;OTHER
+LoMásLeído  La actividad manufacturera de España repuntó en mayo pero no despeja las sombras de estanflación según PMI;actividad manufacturera;actividad;nsubj;OTHER
+Los fabricantes añadirían 800000 millones a su valor de mercado con una electrificación más rápida;fabricantes;fabricantes;nsubj;OTHER
+Pfizer venderá su participación del 32 en Haleon la joint venture con GSK;Pfizer;Pfizer;nsubj;ORG
+El consumo de energía fotovoltaica de autoconsumo se ha quintuplicado desde 2019 según estudio;energía fotovoltaica;None;None;None
+Prologis invierte 60 millones de euros en un nuevo centro logístico en Madrid;centro logístico;None;None;None
+AliExpress abre su octava tienda física en España con la apertura en La Gavia Madrid;Aliexpress;None;None;None
+El mundo debe invertir más de 3 billones al año para cumplir la meta de emisiones cero en 2050 según FMI;mundo;mundo;nsubj;OTHER
+Banco de España rebajará la próxima semana su previsión de PIB en unas décimas y ligeramente la inflación;Banco de España;Banco;nsubj;ORG
+Los fondos de inversión registran en mayo suscripciones netas positivas de 1200 millones de euros;fondos de inversión;fondos;nsubj;OTHER
+La cosecha de cereales de invierno sufrirá un recorte del 21 esta campaña según Asaja;cosecha cereales;cosecha;nsubj;OTHER
+El laboratorio de microchips de Intel y BSC creará 300 empleos altamente cualificados;empleos;empleos;obj;OTHER
+El BCE evalúa positivamente a Croacia de cara a la adopción del euro en 2023;Croacia;Croacia;obj;LOC
+Evo Banco lanza una oferta de inversión indexada y reduce sus tarifas al mínimo histórico;Evo Banco;Evo;nsubj;ORG
+Banco Santander lanza un servicio para ayudar a mejorar la eficiencia energética de las viviendas;eficiencia energética;eficiencia;obj;OTHER
+El Ibex35 pierde un 118 en la sesión y cae a la cota de los 8700 enteros lastrado por Telefónica;#Ibex35;Ibex35;nsubj;OTHER
+Bruselas propone la entrada al euro de Croacia en 2023;Croacia;None;None;None
+Hacienda ha devuelto ya 4895 millones del IRPF a 74 millones de contribuyentes;contribuyentes;None;None;None
+"Empresa Global  Energía eólica offshore 
+
+Con la instalación de turbinas eólicas en el mar se obtiene el doble de energía eléctrica que en un parque terrestre medio
+
+Ofrecido por iberdrola";energía eléctrica;None;None;None
+Cuban cree que el criptoinvierno será positivo permitirá sobrevivir solo a los mejores activos;criptoinvierno;criptoinvierno;nsubj;OTHER
+VÍDEO  El paro baja de los tres millones por primera vez desde 2008 con los indefinidos disparados;paro;None;None;None
+El FIFA 22 en el ojo del huracán se investiga al videojuego por explotar injustamente a los niños;videojuego;videojuego;obj;OTHER
+"Supermercados contra la inflación 
+
+Más ofertas
+Marca blanca
+Nuevos envases";supermercados;None;None;None
+ El Ibex 35 aún tiene camino un tercio de los valores tiene un potencial superior al 20;Ibex 35;Ibex;nsubj;MISC
+Siro parará la producción en todas sus plantas tras quedarse sin comprador;Siro;Siro;nsubj;PER
+Mercedes diseña un plan inversor de 1200 millones de euros para su planta de Vitoria;Mercedes;Mercedes;nsubj;PER
+La muerte de un clásico se acabaron las bodas de Elvis Presley en Las Vegas;bodas;bodas;nsubj;OTHER
+Mutua y El Corte Inglés arrancan con descuentos de hasta el 20 en seguros;Mutua Corte Inglés;Mutua;nsubj;OTHER
+"El riesgo de la estanflación nunca ha sido tan cierto como ahora
+
+";estanflación;None;None;None
+Los fondos de gestión activa que logran rentabilidad de dos dígitos en medio del caótico año bursátil;fondos de gestión;None;None;None
+Reynés Naturgy El mundo está condenado a que los precios del gas sigan subiendo;gas;None;None;None
+Las empresas piden plazos más flexibles para contratar trabajadores foráneos;empresas;empresas;nsubj;OTHER
+Madrid impulsa 3000 millones de obra pública y casi dobla a Cataluña;Madrid;Madrid;nsubj;LOC
+La gigafactoría de Seat supondrá 8000 millones en compras a proveedores;compras;None;None;None
+La asimetría es clara los sueldos han subido un 59 desde 2016 la vivienda un 156;sueldos;sueldos;nsubj;OTHER
+"La economía de la Comunidad de Madrid ha crecido este primer trimestre un 08 del PIB
+
+Prácticamente el triple que la media nacional cuyo dato es del 03";economía;economía;nsubj;OTHER
+Cuidado con los timos Las estafas en Internet no paran de crecer;estafas;None;None;None
+Citi ve a Europa abocada a la recesión y cree que EEUU no tendrá fácil evitarla;Europa;Europa;obj;ORG
+Las familias españolas dispondrán de 220 euros menos al mes respecto al 2021;familias;familias;nsubj;OTHER
+Gentiloni descarta bloquear el gas ruso para no perjudicar demasiado a los europeos;gas;gas;obj;OTHER
+Cuatro años con Sánchez España marca su récord de deuda gasto e inflación;España;None;None;None
+"Enerside Energy conectará la próxima semana su cuarto parque solar en lo que va de año
+
+Hablemos también de sus previsiones de facturación 
+
+
+
+ San_Acost";Enerside Energy;Enerside;nsubj;ORG
+"El grupo catalán Vall Companys es líder en producción avícola 
+
+Factura en esta división 350 millones de euros anuales
+
+Te contamos su acuerdo con la multinacional Nutreco
+";factura;None;None;None
+Es un fraude la cheapflación alimentaria La industria baja la calidad para vender más barato;industria;None;None;None
+El Ibex frena en los 9000 mientras espera la subida de la previsión de inflación del BCE;Ibex;Ibex;nsubj;ORG
+Acerinox y Aperam crearán un gigante inoxidable de 2000 millones de beneficio bruto;Acerinox Aperam;Acerinox;nsubj;OTHER
+"La vacuna del covid_19 redujo un 51 las infecciones
+
+El estudio es español 
+
+ Ana Sánchez";infrecciones;None;None;None
+"La economía sufre en este momento un número de shocks sin precedente en la historia
+
+ danilareq";economía;economía;nsubj;OTHER
+Cierre  Wall Street cierra la semana con fuertes caídas el Nasdaq 100 cae un 267;Wall Street;None;None;None
+"Las pensiones contributivas de jubilación son las que se abonan a más personas en España
+
+Han supuesto 7820 millones de euros este mes el 723 del total
+
+Más 
+
+ sergi_cruz";pensiones contributivas;pensiones;nsubj;OTHER
+"Números de Nueva Pescanova
+
+Facturó 1087 millones
+Un 214 más
+Ha duplicado su Ebitda que alcanzó los 80 millones de euros
+
+Más ";Nueva Pescanova;None;None;None
+"El unicornio español de la ciberseguridad Devo capta 94 millones de euros en una megarronda liderada por el private equity galo Eurazeo
+
+Rocío Casado";Devo;None;None;None
+"Los salarios superan los 1700 euros brutos al mes en 14 pagas
+
+Amazon presta servicios de salud mental o jurídicos a sus empleados
+
+Juan Ignacio Álvarez";salarios;salarios;nsubj;OTHER
+Cheapflation bajar la calidad de los ingredientes para evitar subir los precios es legal;calidad;calidad;obj;OTHER
+"Cierre  El Ibex 35 cierra en negativo y firma un pleno de caídas esta semana
+
+Dato diario
+022 
+8724 puntos
+
+Dato semanal
+289";Ibex 35;Ibex;nsubj;MISC
+" Alemania aprueba el aumento del salario mínimo hasta los 12 euros a la hora unos 2100 euros al mes a partir del 1 de octubre
+
+Protegerá a las personas de bajos ingresos de la pobreza en la vejez";salario mínimo;None;None;None
+ El Euríbor deja entrever que este mes se anotará un nuevo salto;Euríbor;Euríbor;nsubj;ORG
+Despidos amenazas jornadas maratonianas de trabajo Los motivos por los que los trabajadores de Tesla y Twitter reniegan de Elon Musk;trabajadores;trabajadores;nsubj;OTHER
+ Apertura  Corrección en Wall Street abre con fuertes caídas;Wall Street;None;None;None
+ EEUU creó más empleos de los esperados en mayo pero el paro sigue en el 36;empleos;empleos;obj;OTHER
+El Euríbor por encima del 04 en lo que va de junio;Euríbor;None;None;None
+Vendidas 2000 viviendas vacacionales por menos de 100000 euros de media;viviendas;viviendas;nsubj;OTHER
+" Rusia le corta el grifo de gas a Alemania y a Dinamarca
+
+El país germano ya prepara un acopio de alimentos para diez días
+
+ cagallegosj";gas;None;None;None
+Tesla cae en la preapertura ante el megarecorte de la plantilla;Tesla;Tesla;nsubj;ORG
+Atención Acerinox suspendida de cotización;Acerinox;None;None;None
+La inflación en Turquía ya alcanza el 735 interanual en mayo;inflación;inflación;nsubj;OTHER
+"A principios de 2019 la compañía ya recortó su plantilla en un 7
+
+El crecimiento económico de EEUU ha disminuido en las últimas semanas";crecimiento económico;crecimiento;nsubj;OTHER
+El despido en Tesla podría afectar a 10000 trabajadores en todo el mundo;trabajadores;trabajadores;obj;OTHER
+"Tesla ya NO contratará 
+
+Necesita recortar el 10 de la plantilla";plantilla;None;None;None
+"Un tercio de los valores del Ibex 35 con un potencial superior al 
+
+ CeciliaMoyaR";Ibex 35;None;None;None
+"Apertura  Las bolsas europeas abren con ascensos mesurados el Ibex 35 vuelve al 8800
+ 
+054
+879150 puntos";Ibex 35;Ibex;nsubj;MISC
+Cierre  Fuertes subidas en Wall Street El Nasdaq 100 se dispara un 27;Wall Street;None;None;None
+"La falta de chips pasa factura a las matriculaciones de vehículos en renting
+
+Datos 
+
+ ankortejero";matriculaciones;matriculaciones;obj;OTHER
+"Cancelaciones en TVE y aún habrá más 
+
+ david_saiz";TVE;None;None;None
+"Cierre  El Ibex 35 se derrumba a última hora y acumula cuatro jornadas cayendo
+
+004
+8744 puntos";Ibex 35;None;None;None
+La financiación participativa avanza en el mercado inmobiliario;financiación;financiación;nsubj;OTHER
+"EMPLEO  Alcampo busca 1000 trabajadores para verano
+
+ Reponedor cajero mostrador y vendedor
+
+Todos los detalles y cómo apuntarse ";trabajadores;trabajadores;obj;OTHER
+"Empresa global   Aguas de Saltillo ha conseguido asegurar el suministro de agua apta para el consumo a los hogares de la ciudad de Saltillo México
+
+Ofrecido por Agbar";suministro;suministro;obj;OTHER
+ Apertura  Bajadas contenidas en el arranque de Wall Street;Wall Street;None;None;None
+Las pensiones máximas por desgracia son una extraordinaria excepción;pensiones;pensiones;nsubj;OTHER
+"Esta compañía 100 digital  ha cambiado el paradigma del mercado inmobiliario ofreciendo un precio justo y real
+
+Ofrecido por iad_espana";compañía;compañía;nsubj;OTHER
+"URGENTE  Un incidente interrumpe la planta de regasificación de Reganosa La Coruña
+
+ Se corta el suministro de gas en Galicia y Asturias
+
+ rubenesteller";gas;None;None;None
+"Los bancos cuentan con 14000 millones para duplicar las recompras ya realizadas
+
+ BBVA CaixaBank y Santander cuentan con programas por valor de 7000 millones de euros
+
+ lauradlquintana";recompras;recompras;obj;OTHER
+ La inflación mayorista vuelve a marcar récord en la eurozona;inflación;inflación;nsubj;OTHER
+ El bitcoin vuelve a corregir con violencia y pierde los 30000 dólares;bitcoin;bitcoin;nsubj;OTHER
+"Los españoles somos más pobres que antes de la subida de los precios energéticos
+
+ tamenobregon";españoles;españoles;nsubj;OTHER
+Seguros  Sí o sí El repunte de la inflación y el efecto que ésta tiene para la actividad del seguro aboca a esta industria a una retarificación al alza de las coberturas que presta Informa M_PoncedeLeon;seguro;None;None;None
+Maroto defiende que el Perte del vehículo eléctrico será un gran impulso para Cataluña;vehículo eléctrico;None;None;None
+El precio de la luz sube este lunes  pero se mantiene por debajo de los 200 eurosMWh;luz;None;None;None
+Mercados  Coinbase y Robinhood brókeres alternativos que permiten operar con criptodivisas cotizan en mínimos históricos ante el temor de hacer frente a indemnizaciones millonarias si triunfan los pleitos contra ellos Informa Saizpena;Coinbase Robinhood;None;None;None
+Minsait contratará a 4000 profesionales en España este año;Minsait;Minsait;nsubj;ORG
+España perdió 337 licencias de VTC y destruyó 4056 de taxi hasta mayo;España;España;nsubj;LOC
+Mercados  Las pequeñas compañías de EEUU cotizan en niveles similares a los de la crisis de 2008;compañías;compañías;nsubj;OTHER
+Costa pide a las empresas un esfuerzo para subir un 20 los salarios medios en Portugal;salarios;salarios;obj;OTHER
+Inversión  Los fondos que más ganan en los últimos diez años acumulan caídas pronunciadas en 2022 y se postulan como una oportunidad de inversión a largo plazo Informa Sandra_SanchezC;fondos;fondos;nsubj;OTHER
+Inversión Mercados  Más de una quincena de empresas de la Bolsa española terminarán el año con más de 14000 millones de euros en caja tras restar la deuda Informa crosique11;empresas;None;None;None
+Banca  Más de 80000 clientes de Santander ahorran 161 millones en diez meses a través de pequeñas reglas como el redondeo de pagos con tarjeta Informa raquel_lander;clientes;clientes;nsubj;OTHER
+Marriott suspende todas sus operaciones en Rusia;Rusia;None;None;None
+El mercado mundial de smartphones caerá hasta un 35 por los cierres en China;mercado;mercado;nsubj;OTHER
+El precio de la luz cae este sábado un 5 y se sitúa en los 20386 eurosMWh;luz;None;None;None
+Santander cuenta ya con 100000 huchas digitales;Santander;Santander;nsubj;LOC
+Openbank regala hasta 1500 euros por captar nuevos clientes en hipotecas;Openbank;Openbank;nsubj;ORG
+Santander añade un nuevo unicornio a su cartera y ya suma once;Santander;Santander;nsubj;LOC
+RIU prevé volver a niveles de ingresos preCovid en 2022;RIU;RIU;nsubj;ORG
+Las sanciones al petróleo ruso alteran el mapa energético de la UE;mapa energético;mapa;obj;OTHER
+Siro anuncia que paraliza todas sus plantas por falta de acuerdo con inversores;Siro;Siro;nsubj;PER
+El optimismo previo a la publicación del paro de EEUU se fue desvaneciendo y las dudas regresaron después de confirmar una suave desaceleración del ritmo de creación de empleo;empleo;None;None;None
+El Ibex ha cedido un 022 hasta los 872480 puntos;Ibex;Ibex;nsubj;ORG
+ÚLTIMA HORA  El Ibex pierde un 23 en un pleno de caídas en la semana;Ibex;Ibex;nsubj;ORG
+"Shein enseña músculo con su primera tienda en España
+
+Lo cuenta victormosorio en";Shein;Shein;nsubj;PER
+"La transacción se ha cruzado a un precio de 11 euros por acción ligeramente por encima de la cotización actual de Indra 
+
+Una exclusiva de pepepebravo en";transacción;transacción;nsubj;OTHER
+La Sepi subiría así hasta el entorno del 2336 en el capital de Indra;Sepi;Sepi;nsubj;ORG
+EXCLUSIVA  La Sepi compra el 321 que mantenía la familia March en Indra por 62 millones de euros;Sepi;None;None;None
+Se estima que la banda posee una fortuna conjunta neta de unos 1450 millones de dólares;banda;banda;nsubj;OTHER
+Con las entradas entre los 100 y 300 euros los Rolling están de vuelta para engrosar sus ya abultadas fortunas;Rolling;Rolling;nsubj;PER
+La milmillonaria fortuna de los Rolling Stones;Rolling Stones;None;None;None
+"Los empleados de Tesla no ganan para sobresaltos
+
+Musk revela que necesita recortar el 10 de la plantilla de Tesla";plantilla Tesla;None;None;None
+"El mercado ha tenido en mayo un comportamiento diferente a lo largo de la geografía española aunque las subidas han sido predominantes 
+
+Así hasta 34 capitales han experimentado alzas en el precio de la vivienda en alquiler durante el último mes";mercado;mercado;nsubj;OTHER
+El alquiler sube un 14 dónde está más caro;alquiler;alquiler;nsubj;OTHER
+Los grupos de infraestructuras de telecos crecen con el boom de datos;grupos;grupos;nsubj;OTHER
+El mercado cripto no acaba de recuperar el pulso alcista después de su desplome;mercado cripto;mercado;nsubj;OTHER
+La crisis nos ha pillado con la economía bien saneada las empresas han conseguido competir bien en un entorno muy complicado;empresas;empresas;nsubj;OTHER
+La CNMV ha suspendido la cotización de Acerinox y Aperam la compañía con sede en Luxemburgo y participada en un 409 por los Mittal ante una posible fusión entre los dos fabricantes de acero inoxidable;cotización;cotización;obj;OTHER
+Amancio Ortega una de las grandes fortunas del mundo creó Pontegadea Inversiones en junio de 2001 un mes después del estreno en Bolsa de Inditex;Amancio Ortega;Amancio;nsubj;PER
+La mayor operación cerrada hasta el momento por Pontegadea ha sido en Canadá La empresa que gestiona el patrimonio del magnate del textil ha comprado este año el Royal Bank Plaza por más de 800 millones;Pontegadea;Pontegadea;obj;ORG
+"En apenas dos décadas Amancio Ortega ha levantado un imperio inmobiliario valorado en más de 14000 millones
+
+Extiende su huella por España Reino Unido Estados Unidos México Canadá Italia Portugal Francia y Corea del Sur";Amancio Ortega;Amancio;nsubj;PER
+"Así es el imperio inmobiliario de Amancio Ortega
+
+Con la gasolina que le aporta cada año el dividendo de Inditex Ortega se ha convertido en el mayor inversor español inmobiliario";Amancio Ortega;None;None;None
+Acerinox y Aperam suspendidas en Bolsa ante una posible fusión;Acerinox Aperam;None;None;None
+ÚLTIMA HORA  Europa apunta también al alza y la Bolsa española se encuentra con referencias favorables del exterior para activar el rebote a la espera al menos de los datos de EEUU;Bolsa;Bolsa;nsubj;ORG
+"ÚLTIMA HORA  El Ibex abre con subidas del 065 hasta 8800 puntos El optimismo previo a la publicación del informe oficial de empleo de EEUU despeja el camino a las subidas
+
+Sigue la evolución de los Mercados en la Crónica de Bolsa de ";Ibex;Ibex;nsubj;ORG
+Alerta del supervisor ciertas comisiones de los bancos pueden provocar fugas a las fintech;fintech;fintech;obj;OTHER
+Bestinver banca y tecnología para doblar la inversión;inversión;inversión;obj;OTHER
+Santander y BBVA refuerzan sus agencias de marketing con tres fichajes;Santander BBVA;Santander;nsubj;OTHER
+Los bancos que incumplan las normas antiblanqueo podrían perder la licencia;bancos;bancos;nsubj;OTHER
+Vuelve la tormenta a la deuda con el interés en máximos;interés;None;None;None
+Shein enseña músculo con su primera tienda en España;Shein;Shein;nsubj;PER
+Sacyr y Acciona Energía  principales candidatas a entrar en el Ibex;Sacyr Acciona;Sacyr;nsubj;OTHER
+La firma EDM lanza su primer fondo ESG;EDM;None;None;None
+Valores con la caja llena a buen resguardo de las subidas de tipos;Valores;None;None;None
+Nueva York valora medida que restringe minado de bitcoin con fuentes fósiles;bitcoin;bitcoin;obj;OTHER
+AcerinoxAperam una fusión con potencial doble en Bolsa;Acerinox Aperam;None;None;None
+El Ibex evita el pleno semanal de caídas antes del empleo de EEUU;Ibex;Ibex;nsubj;ORG
+Bestinver banca y tecnología para doblar la inversión;Bestinver;None;None;None
+Vuelve la tormenta a la deuda con el interés en máximos;interés;None;None;None
+El Nasdaq sube más de un 2 pese al recorte en las previsiones de Microsoft;Nasdaq;Nasdaq;nsubj;MISC
+La OPEP bombeará un 50 más de petróleo a partir de julio;OPEP+;OPEP;nsubj;OTHER
+El bitcoin amenaza al resto de criptomonedas;criptomodenas;None;None;None
+El Ibex se atasca tras encadenar tres caídas;Ibex;Ibex;nsubj;ORG
+Los fondos conservadores atraen 6500 millones pese a las pérdidas;fondos;fondos;nsubj;OTHER
+Las acciones de Amazon serán 20 veces más baratas el próximo lunes;acciones;acciones;nsubj;OTHER
+Wall Street suma su segunda caída consecutiva por el temor a una ralentización de la economía;Wall Street;Wall;nsubj;LOC
+La deuda descuenta subidas más agresivas de tipos del BCE;tipos;None;None;None
+Dr Martens pisa fuerte con su mayor subida en Bolsa;Dr Martens;Dr;nsubj;PER
+El petróleo concede un respiro gracias al backwardation;petróleo;petróleo;nsubj;OTHER
+El Ibex inicia junio con una minitregua;Ibex;Ibex;nsubj;ORG
+Seis valores suben más del 10 en el mejor mes del año;valores;valores;nsubj;OTHER
+Wall Street despide mayo cortando su racha alcista;Wall Street;Wall;nsubj;LOC
+EL Ibex es la Bolsa más vulnerable de Europa según Morgan Stanley;Ibex;Ibex;nsubj;OTHER
+Inditex pelea con Iberdrola el liderazgo por capitalización;Inditex;Inditex;nsubj;ORG
+Bank of America y JPMorgan ganan cuota en la Bolsa española;JPMorgan;None;None;None
+Hay margen de subida en la tecnología el SOX busca la parte alta del canal bajista;SOX;SOX;nsubj;MISC
+IAG canalizado a la baja desde febrero de 2021;IAG;None;None;None
+Telefónica rompe los 5 euros por acción en plena recta final para el dividendo;Telefónica;Telefónica;nsubj;ORG
+El Ibex está fuerte pero llega exhausto a la resistencia de los 89009000;Ibex;Ibex;nsubj;MISC
+Unilever gana 7000 millones en Bolsa al dar entrada en su consejo a los activistas;Unilever;Unilever;nsubj;ORG
+El petróleo escala a máximos de marzo tras el embargo al crudo ruso;petróleo;petróleo;nsubj;OTHER
+El Ibex vuelve a frenarse por debajo de los 9000 puntos;Ibex;Ibex;nsubj;ORG
+Los fondos españoles invierten 2600 millones tras las caídas;fondos;fondos;nsubj;OTHER
+El bitcoin anclado en 30000 dólares cuándo saldrá del coma;bitcoin;bitcoin;nsubj;OTHER
+Hasta cuánto puede aguantar España las subidas de tipos;tipos;None;None;None
+La Bolsa española la que más sube en mayo un 404;Bolsa;Bolsa;nsubj;ORG
+Altia paga dividendo de 032 euros por acción el próximo día 8 de junio;Altia;Altia;nsubj;ORG
+Coinbase resurge cual Ave Fénix y cierra el hueco bajista de los últimos resultados;Coinbase;Coinbase;nsubj;PER
+Prometedor apoyo del STOXX Europe 600 a los máximos de 2015 y 2020;STOXX Europe;None;None;None
+La nueva terra luna también se desploma en el mercado cripto;luna;None;None;None
+Las tres últimas apuestas en Bolsa de Soros para ganar hasta el 110;Soros;None;None;None
+Los futuros del Dax y del Euro Stoxx dejan atrás las directrices bajistas de corto plazo;Dax;None;None;None
+El Ibex en racha activa el asalto a los 9000 puntos;Ibex;Ibex;nsubj;ORG
+El euro se agarra a los mínimos de 2017 como a un clavo ardiendo;euro;euro;nsubj;OTHER
+Por encima de los 33 euros ArcelorMittal activaría una clara señal de compra;ArcelorMittal;ArcelorMittal;nsubj;ORG
+El rublo destaca en un mercado de divisas agitado por la guerra y los tipos;rublo;rublo;nsubj;OTHER
+El BCE ficha cuatro cazatalentos para buscar ejecutivos;BCE;BCE;nsubj;ORG
+El Ibex a dos sesiones de cerrar el mejor mes de 2022;Ibex;None;None;None
+El coste de la deuda pública emitida en 2022 volvió a aumentar en mayo;deuda;None;None;None
+La guerra y el euribor amenazan el frenético ritmo de actividad hipotecaria;actividad hipotecaria;None;None;None
+El mercado ya descuenta peores resultados;mercado;mercado;nsubj;OTHER
+El Nasdaq sube otro 2;Nasdaq;Nasdaq;nsubj;MISC
+Dow Jones busca cortar su peor racha desde 1923;Dow Jones;Dow;nsubj;PER
+ACS muy cerca ya de la importante resistencia de los 272725 euros;ACS;ACS;nsubj;ORG
+Sabadell logra al fin luz verde de los analistas para superar el euro por acción;Sabadell;Sabadell;nsubj;LOC
+El miedo extremo que mantiene bloqueado el bitcoin;bitcoin;bitcoin;obj;OTHER
+Ahora sí el Dax asoma la cabeza por encima de la directriz bajista;Dax;Dax;nsubj;MISC
+Los mercados mundiales en alerta;mercados;None;None;None
+El Ibex sin rumbo claro busca el pleno de subidas en la semana;Ibex;Ibex;nsubj;ORG
+Redegal prepara su salto al BME para crecer con compras;Redegal;Redegal;nsubj;ORG
+Diez valores disparados en Bolsa por la viruela del mono;valores;None;None;None
+Acerinox Amadeus y BBVA con fuerza para entrar en verde en 2022;Acerinox;None;None;None
+El Nasdaq sube un 2;Nasdaq;Nasdaq;nsubj;MISC
+Dow Jones enfila su quinta sesión consecutiva al alza;Dow Jones;Dow;nsubj;PER
+Inditex se dispara un 5 en Bolsa por las buenas previsiones;Inditex;Inditex;nsubj;ORG
+CaixaBank a solo un 10 de los máximos históricos;CaixaBank;None;None;None
+Incentivos incorrectos para los precios del carbono;carbono;None;None;None
+Cuatroochenta aumenta un 26 las ventas en el primer trimestre;Cuatroochenta;Cuatroochenta;nsubj;ORG
+La alianza con Inditex dispara a una empresa australiana;empresa;empresa;obj;OTHER
+Las small caps estadounidenses construyen un suelo en los máximos prepandemia;samll caps;None;None;None
+Óptima ecuación rentabilidadriesgo en LVMH ahora o nunca;LVMH;None;None;None
+Solaria gana el pulso a los bajistas con sus subidas;Solaria;Solaria;nsubj;PER
+Javier Illán Millenium será la tercera mayor Socimi del Continuo;Millenium;None;None;None
+Los 8900 del Ibex 35 una resistencia colosal;Ibex;None;None;None
+Técnicamente se dan las condiciones para que los bonos construyan un importante rebote;bonos;bonos;nsubj;OTHER
+El Ibex pone en duda su quinta subida consecutiva;Ibex;Ibex;nsubj;ORG
+Un tesoro escondido en Europa que puede escalar hasta un 250;tesoro;None;None;None
+Las Bolsas más baratas para resistir nuevas embestidas;Bolsas;None;None;None
+El Nasdaq repunta un 2 tras las actas de la Fed;Nasdaq;Nasdaq;nsubj;MISC
+La Fed apunta a dos subidas más de los tipos del 05 en junio y julio;Fed;Fed;nsubj;ORG
+La fortuna de Elon Musk cae por debajo de los 200000 millones de dólares;fortuna;fortuna;nsubj;OTHER
+Aena y el interminable lateral que dura ya 18 meses;Aena;None;None;None
+Bankinter puede batir los máximos históricos en cualquier momento;Bankinter;Bankinter;nsubj;ORG
+Repsol alcanza un nuevo techo en Bolsa y los analistas auguran más subidas;Repsol;Repsol;nsubj;ORG
+Red Eléctrica técnicamente en subida libre absoluta;Red Eléctrica;None;None;None
+Telefónica continúa imparable a por los máximos prepandemia y más allá;Telefónica;Telefónica;nsubj;ORG
+La deuda en racha ante una de sus mayores oportunidades en 15 años;deuda;None;None;None
+Red Eléctrica ataca los 20 euros y despierta a los bajistas;Red Eléctrica;Red;nsubj;ORG
+Los bancos del Ibex refugios y nichos de rentabilidad de hasta el 48;bancos;None;None;None
+Microsoft o cuando en la base del canal se compra no se vende;Microsoft;Microsoft;nsubj;ORG
+El Ibex apunta a los 8700 puntos en sus subidas;Ibex;Ibex;nsubj;ORG
+El banco digital de JPMorgan podría perder 1000 millones en el extranjero;JPMorgan;None;None;None
+El escenario que haría caer a la Bolsa americana otro 43;Bolsa;None;None;None
+El Nasdaq se desinfla un 3 arrastrado por Snapchat;Nasdaq;Nasdaq;nsubj;MISC
+El revés a las eléctricas británicas hace mella también en el Ibex;Ibex;None;None;None
+Lagarde acelera por segundo día al euro que se aleja de la paridad;euro;euro;obj;OTHER
+IAG y el resto de aerolíneas arrastradas por la dilución de Air France;aerolíneas;None;None;None
+Enésimo encontronazo del Dax con la directriz bajista;Dax;None;None;None
+El Ibex pisa el freno;Ibex;Ibex;nsubj;ORG
+Iberdrola calienta motores con la mirada puesta en los máximos históricos;Iberdrola;Iberdrola;nsubj;ORG
+Ganadores y perdedores ante las subidas de tipos del BCE;tipos;None;None;None
+BUX potencia el negocio en España con el fichaje de un nuevo responsable en España;negocio;negocio;obj;OTHER
+El euro coge aire tras el acelerón del BCE;euro;euro;nsubj;OTHER
+El español que controla 80000 millones en activos desde Wall Street;español;None;None;None
+Fidere EiDF Vytrus pequeños que se disparan más del 100;pequeños;que;nsubj;OTHER
+Rastreator avanza en su modelo híbrido y tendrá al menos 15 oficinas físicas en 2023;Rastreator;Rastreator;nsubj;ORG
+Los hedge funds reconstruyen sus carteras para frenar la sangría de 2022;hedges funds;hedge;nsubj;OTHER
+El Dow Jones rebota un 2 y se aleja del mercado bajista;Dow Jones;Dow;nsubj;MISC
+Lagarde anticipa el fin de los tipos negativos en septiembre;tipos;None;None;None
+El dólar se agarra a los mínimos de 2017 como a un clavo ardiendo;dólar;dólar;nsubj;OTHER
+Alcistas y bajistas chocan en el valor disparado por la viruela del mono;valor;None;None;None
+La tendencia sigue siendo alcista en el petróleo pero el riesgo macro es importante;petróleo;None;None;None
+El Ibex a por los 8500 puntos con el tirón de Gamesa;Ibex;None;None;None
+Este es el fondo más rentable desde que comenzó la guerra de Ucrania;fondo;None;None;None
+Empresas y bancos recortan el plazo de sus bonos y se rascan el bolsillo para tentar a los inversores;bancos;None;None;None
+Solo por encima de los 8900 tendremos un antes y un después en el Ibex;Ibex;None;None;None
+La moda de la recompra de acciones cala en Europa;recompra;None;None;None
+Sacyr y Acciona Energía favoritos para saltar al Ibex;Sacyr;Sacyr;nsubj;ORG
+Las salidas a Bolsa se frenan con la valoración de las empresas mermada;salidas;salidas;nsubj;OTHER
+Tesla salida del ESG y caída del 13;Tesla;None;None;None
+Las acciones del Intercity caen a su valor más bajo tras su ascenso;acciones;acciones;nsubj;OTHER
+Pequeños valores con tirón bursátil;valores;None;None;None
+Dónde invertir cuando la economía pisa el freno;economía;economía;nsubj;OTHER
+El euribor escala máximos desde 2014 y agita el negocio hipotecario;euribor;None;None;None
+Qué podemos esperar de las Bolsas tras las recientes caídas;Bolsas;None;None;None
+CaixaBank pierde tres puestos por peso en el Ibex 35;CaixaBank;CaixaBank;nsubj;ORG
+Valores para escapar de la tormenta;Valores;None;None;None
+Guía sobre el impacto de la subida de tipos;tipos;None;None;None
+El Nasdaq repunta un 2;Nasdaq;Nasdaq;nsubj;MISC
+El SP 500 enfila su peor semana desde marzo de 2020;S&P 500;None;None;None
+Iberdrola da un dividendo extra tras lograr más del 70 de quórum en la junta;Iberdrola;Iberdrola;nsubj;ORG
+La renta variable aún no ha alcanzado el momento de capitulación;renta variable;renta;nsubj;OTHER
+El Ibex quiere recuperar los 8100 en la cuádruple hora bruja;Ibex;Ibex;nsubj;ORG
+Bolsas europeas al borde de una fase bajista;Bolsas;None;None;None
+Qué dos depósitos a un año rompen al alza el listón del 1 TAE;depósitos;depósitos;nsubj;OTHER
+La gran banca española deja a cero las emisiones de capital por primera vez en la historia;emisiones;emisiones;obj;OTHER
+La pequeña joya española que sube un 60 en el año y espera continuar su rally;joya;None;None;None
+Este fondo gana más del 100 en tres años invirtiendo solo en tres sectores;fondo;fondo;nsubj;OTHER
+El Nasdaq se desploma un 4;Nasdaq;Nasdaq;nsubj;MISC
+El Dow Jones ya cae casi un 20 desde máximos;Dow Jones;Dow;nsubj;ORG
+El euro se acerca a la paridad;euro;euro;nsubj;OTHER
+La libra cae;libra;libra;nsubj;OTHER
+El franco suizo se dispara;franco suizo;franco;nsubj;OTHER
+El Banco de Inglaterra encadena su quinta subida de tipos;tipos;None;None;None
+Por qué la Bolsa sigue cayendo tras los bancos centrales;Bolsa;Bolsa;nsubj;ORG
+Las claves para la recuperación del bitcoin y del criptomercado;bitcoin;None;None;None
+La CNMV suspende la cotización de Ezentis tras pedir un rescate urgente a la Sepi;Ezentis;None;None;None
+Los seis puntos fuertes del Ibex frente al resto de índices europeos;Ibex;None;None;None
+El Ibex sin un rumbo claro después de la Fed;Ibex;None;None;None
+La Fed sube los tipos de interés un 075 el mayor salto desde 1994;tipos;tipos;obj;OTHER
+El precio del gas se dispara un 20 por los recortes en el suministro de Gazprom;gas;None;None;None
+Las grandes tecnológicas impulsan a Wall Street antes de la decisión de la Fed;Wall Street;Wall;obj;ORG
+Acerinox descarta una opa hostil de Aperam y sigue buscando oportunidades para crecer;Acerinox;Acerinox;nsubj;ORG
+El bitcoin en caída libre baja a 20000 dólares antes de la Fed;bitcoin;bitcoin;nsubj;OTHER
+Las mejores hipotecas fijas ceden a la presión y suben precios;hipotecas;hipotecas;nsubj;OTHER
+Nunsys saldrá a bolsa este verano;Nunsys;Nunsys;nsubj;ORG
+El Ibex en vilo por la Fed;Ibex;None;None;None
+BlackRock no invertirá más en Bolsa en 12 meses;BlackRock;BlackRock;nsubj;ORG
+Los cinco frentes abiertos que anticipan un verano complicado en los mercados;mercados;None;None;None
+Por qué hay que tener en el radar a las compañías que dejan el Ibex pueden subir hasta un 45;compañías;compañías;obj;OTHER
+La prima de riesgo regresa para sacudir a la Bolsa española;Bolsa;Bolsa;obj;ORG
+La libra se desploma a mínimos de marzo de 2020;libra;libra;nsubj;OTHER
+Tressis ve oportunidades de inversión en mercados revueltos pero con prudencia;Tressis;Tressis;nsubj;ORG
+Wall Street corta su sangría y amaga con el rebote;Wall Street;Wall;nsubj;LOC
+La Fed puede poner sobre la mesa una subida de tipos de hasta el 075;tipos;None;None;None
+Los fondos internacionales aprovechan las caídas en dos empresas españolas;fondos;fondos;nsubj;OTHER
+El bitcoin ahonda mínimos en su segundo día de desplomes del 10;bitcoin;bitcoin;nsubj;OTHER
+El Ibex toma aire y busca al fin el rebote;Ibex;Ibex;nsubj;ORG
+Los fondos reactivan su interés por la banca ante la subida de tipos;tipos;None;None;None
+Temor extendido por la lucha contra la inflación;inflación;None;None;None
+Cuatro valores del Ibex para aprovechar las recompras de acciones;valores;None;None;None
+La banca pierde 17000 millones de valor en Bolsa en cinco sesiones;banca;banca;nsubj;OTHER
+Binance suspende temporalmente las retiradas de bitcoin debido a un atasco;Binance;Binance;nsubj;PER
+La junta de accionistas aprueba la opa de exclusión sobre Greenalia;Greenalia;None;None;None
+El corralito de Celsius agrava las caídas en el mercado cripto;mercado cripto;None;None;None
+CaixaBank pierde tres puestos por peso en el Ibex 35;CaixaBank;CaixaBank;nsubj;ORG
+Valores para escapar de la tormenta;Valores;None;None;None
+Guía sobre el impacto de la subida de tipos;tipos;None;None;None
+El Nasdaq repunta un 2;Nasdaq;Nasdaq;nsubj;MISC
+El SP 500 enfila su peor semana desde marzo de 2020;S&P 500;None;None;None
+Iberdrola da un dividendo extra tras lograr más del 70 de quórum en la junta;Iberdrola;Iberdrola;nsubj;ORG
+La renta variable aún no ha alcanzado el momento de capitulación;renta variable;renta;nsubj;OTHER
+El Ibex quiere recuperar los 8100 en la cuádruple hora bruja;Ibex;Ibex;nsubj;ORG
+Bolsas europeas al borde de una fase bajista;Bolsas;None;None;None
+Qué dos depósitos a un año rompen al alza el listón del 1 TAE;depósitos;depósitos;nsubj;OTHER
+La gran banca española deja a cero las emisiones de capital por primera vez en la historia;emisiones;emisiones;obj;OTHER
+La pequeña joya española que sube un 60 en el año y espera continuar su rally;joya;None;None;None
+Este fondo gana más del 100 en tres años invirtiendo solo en tres sectores;fondo;fondo;nsubj;OTHER
+El Nasdaq se desploma un 4;Nasdaq;Nasdaq;nsubj;MISC
+El Dow Jones ya cae casi un 20 desde máximos;Dow Jones;Dow;nsubj;ORG
+El euro se acerca a la paridad;euro;euro;nsubj;OTHER
+La libra cae;libra;libra;nsubj;OTHER
+El franco suizo se dispara;franco suizo;franco;nsubj;OTHER
+El Banco de Inglaterra encadena su quinta subida de tipos;tipos;None;None;None
+Por qué la Bolsa sigue cayendo tras los bancos centrales;Bolsa;Bolsa;nsubj;ORG
+Las claves para la recuperación del bitcoin y del criptomercado;bitcoin;None;None;None
+La CNMV suspende la cotización de Ezentis tras pedir un rescate urgente a la Sepi;Ezentis;None;None;None
+Los seis puntos fuertes del Ibex frente al resto de índices europeos;Ibex;None;None;None
+El Ibex sin un rumbo claro después de la Fed;Ibex;None;None;None
+La Fed sube los tipos de interés un 075 el mayor salto desde 1994;tipos;tipos;obj;OTHER
+El precio del gas se dispara un 20 por los recortes en el suministro de Gazprom;gas;None;None;None
+Las grandes tecnológicas impulsan a Wall Street antes de la decisión de la Fed;Wall Street;Wall;obj;ORG
+Acerinox descarta una opa hostil de Aperam y sigue buscando oportunidades para crecer;Acerinox;Acerinox;nsubj;ORG
+El bitcoin en caída libre baja a 20000 dólares antes de la Fed;bitcoin;bitcoin;nsubj;OTHER
+Las mejores hipotecas fijas ceden a la presión y suben precios;hipotecas;hipotecas;nsubj;OTHER
+Nunsys saldrá a bolsa este verano;Nunsys;Nunsys;nsubj;ORG
+El Ibex en vilo por la Fed;Ibex;None;None;None
+BlackRock no invertirá más en Bolsa en 12 meses;BlackRock;BlackRock;nsubj;ORG
+Los cinco frentes abiertos que anticipan un verano complicado en los mercados;mercados;None;None;None
+Por qué hay que tener en el radar a las compañías que dejan el Ibex pueden subir hasta un 45;compañías;compañías;obj;OTHER
+La prima de riesgo regresa para sacudir a la Bolsa española;Bolsa;Bolsa;obj;ORG
+La libra se desploma a mínimos de marzo de 2020;libra;libra;nsubj;OTHER
+Tressis ve oportunidades de inversión en mercados revueltos pero con prudencia;Tressis;Tressis;nsubj;ORG
+Wall Street corta su sangría y amaga con el rebote;Wall Street;Wall;nsubj;LOC
+La Fed puede poner sobre la mesa una subida de tipos de hasta el 075;tipos;None;None;None
+Los fondos internacionales aprovechan las caídas en dos empresas españolas;fondos;fondos;nsubj;OTHER
+El bitcoin ahonda mínimos en su segundo día de desplomes del 10;bitcoin;bitcoin;nsubj;OTHER
+El Ibex toma aire y busca al fin el rebote;Ibex;Ibex;nsubj;ORG
+Los fondos reactivan su interés por la banca ante la subida de tipos;tipos;None;None;None
+Temor extendido por la lucha contra la inflación;inflación;None;None;None
+Cuatro valores del Ibex para aprovechar las recompras de acciones;valores;None;None;None
+La banca pierde 17000 millones de valor en Bolsa en cinco sesiones;banca;banca;nsubj;OTHER
+Binance suspende temporalmente las retiradas de bitcoin debido a un atasco;Binance;Binance;nsubj;PER
+La junta de accionistas aprueba la opa de exclusión sobre Greenalia;Greenalia;None;None;None
+El corralito de Celsius agrava las caídas en el mercado cripto;mercado cripto;None;None;None
+Díaz anuncia que está casi listo el borrador para la reforma de los derechos de las empleadas de hogar;empleadas hogar;None;None;None
+Renfe reclama al Gobierno la implantación de peajes en las autovías para impulsar el tren;peajes;None;None;None
+El cambio de política monetaria instala al bitcoin en una montaña rusa;bitcoin ;bitcoin;obj;OTHER
+Los supermercados piden bajar impuestos para frenar la subida de precios Se nos han duplicado los costes;impuestos;impuestos;obj;OTHER
+España manda gas a Europa al máximo de su capacidad para suplir los suministros de Rusia;gas;gas;obj;OTHER
+ERC usa la ley rider para pedir el traspaso de competencias de la Inspección a Cataluña;Cataluña;None;None;None
+Alemania sufre un IPC en abril del 74 el mayor en cuarenta años;Alemania ;Alemania;nsubj;OTHER
+El euríbor encarece las hipotecas más de 400 euros de media al año y las cuotas seguirán subiendo en mayo;hipotecas;hipotecas;obj;OTHER
+La Comisión no se fía del Gobierno y esperará a ver qué aprueba antes de avalar el tope del gas;gas;None;None;None
+La factura en subidas salariales a los funcionarios asciende a los 10725 millones con Sánchez;funcionarios;None;None;None
+Correos encara su refundación convertida en un polvorín;Correos;Correos;nsubj;ORG
+China dispara sus importaciones desde Rusia pese a la guerra;China;China;nsubj;ORG
+La CEOE avisa a las empresas la subida de sueldos debe ligarse al empleo y la productividad;sueldos;None;None;None
+Hasta tres subidas de tipos este año o por qué debemos prepararnos para un periodo largo de alta inflación;tipos;None;None;None
+Más de un millón de ofertas de empleo se quedarán sin cubrir en España por déficit de profesionales;empleo;None;None;None
+Telefónica se consolida en el mercado alemán con la compra de la alemana BEterna por 350 millones;Telefónica ;Telefónica;nsubj;OTHER
+Un laberinto burocrático de hasta ocho meses para acceder a los fondos europeos;fondos ;fondos;obj;OTHER
+Los bancos aplicaron comisiones de mantenimiento de hasta 60 euros en el primer trimestre;bancos;bancos;nsubj;OTHER
+Massimo Dutti comercializa su nueva línea Studio tras la integración de Uterqüe;Massimo Dutti;Massimo;nsubj;PER
+Competencia cree que los AVE que paren en Atocha tendrán ventaja respecto a los de Chamartín;AVE;AVE;nsubj;MISC
+Segunda salida en el consejo de Dia en menos de un mes tras la marcha de Fridman de Letterone;Dia;None;None;None
+El campo se desangra España pierde más de 70000 explotaciones agrarias en 10 años;campo ;campo;nsubj;OTHER
+El sector público crea un 50 del empleo desde la pandemia y con una elevada tasa de temporalidad;empleo;None;None;None
+Atocha o Chamartín el sector ferroviario se enzarza en la parada del AVE MadridValencia;AVE;None;None;None
+Díaz urge frenar la gran dimisión en España 109000 vacantes de empleo se quedan sin cubrir;empleo;None;None;None
+Montero notifica a Bruselas que hay margen para subir los impuestos a los automóviles los barcos y los aviones;impuestos ;impuestos;obj;OTHER
+El colapso del puerto de Shanghái desboca la espiral inflacionista;Shanghái;None;None;None
+Una amenaza invisible que agrieta los cimientos económicos de Rusia y puede extenderse a nivel global;Rusia;None;None;None
+Bruselas no termina de aprobar la propuesta de Teresa Ribera para topar el precio del gas;gas;None;None;None
+El 70 de las pymes denuncian las trabas para abrir una empresa;pymes;None;None;None
+Más de un millón de páginas en los BOE la burocracia se desboca en 2021;burocracia;burocracia;nsubj;OTHER
+Las pensiones de jubilación alcanzan los 1534 euros y ya rozan el salario medio en seis comunidades autónomas;pensiones;pensiones;nsubj;OTHER
+La alternativa de España si Argelia corta el gas recurrir a otros países pero a un precio más caro;gas;gas;obj;OTHER
+Ryanair aspira a transportar el récord de 50 millones de pasajeros en España este año;Ryanair ;Ryanair;nsubj;OTHER
+De Guindos Los aumentos salariales son hasta ahora bastante prudentes;salario;None;None;None
+El Banco de España en alerta la desidia del Gobierno convierte la economía en vulnerable;economía;economía;obj;OTHER
+El IPC cede hasta el 84 pero el núcleo duro de la cesta de la compra se encarece como nunca en la era del euro;IPC;IPC;nsubj;MISC
+España destruye 100200 empleos y el paro aumenta en 70900 personas en el primer trimestre;empleo ;None;None;None
+El Bundesbank ve al BCE forzado a actuar por la inflación;BCE;None;None;None
+El sector aéreo avisa que prohibir vuelos cortos golpeará a Barajas y potenciará otros hubs europeos;vuelos;vuelos;obj;OTHER
+Garzón acuerda con la industria del juguete evitar los anuncios en los que se asocie el color rosa con las niñas;juguete ;None;None;None
+Aena lleva al Supremo la negativa del Gobierno a compensarle por el coronavirus;Aena;Aena;nsubj;ORG
+El precio de la electricidad no debería superar los 150 euros el MWh en los próximos doce meses;electricidad ;None;None;None
+Las pensiones de jubilación alcanzan los 1534 euros y ya rozan el salario medio en seis comunidades autónomas;pensiones ;pensiones;nsubj;OTHER
+El Gobierno esquiva una treintena de iniciativas del Congreso para que baje impuestos;impuestos ;impuestos;obj;OTHER
+El pacto salarial fracasa y Sánchez se queda sin un arma antiinflación;pacto salarial ;pacto;nsubj;OTHER
+España y Portugal anuncian un acuerdo con Bruselas para limitar el precio medio del gas a 50 euros el MWh;gas;None;None;None
+Hernández de Cos llama a alcanzar un pacto de rentas para evitar efectos de segunda ronda de la inflación;inflación ;None;None;None
+Primark anuncia que aplicará aumentos de precios selectivos por la subida de costes en origen;Primark;Primark;nsubj;ORG
+El Banco de España habla ya de importancia sistémica creciente de las criptomonedas y alerta de sus riesgos;criptomonedas;None;None;None
+La banca volverá a pagar por los depósitos de los clientes cuando el BCE suba los tipos;banca;banca;nsubj;OTHER
+Los expertos avalan la rebaja selectiva del IRPF para proteger a las rentas medias y bajas;IRPF;None;None;None
+Banco Santander gana 2543 millones hasta marzo casi un 60 más empujado por el aumento de ingresos;Santander;None;None;None
+Elon Musk compra Twitter por 44000 millones de euros;Twitter;Twitter;obj;ORG
+Twitter negocia su venta a Elon Musk tras acercar posturas según la prensa estadounidense;Twitter;Twitter;nsubj;ORG
+Las pymes advierten a Sánchez las trabas para aumentar plantillas restan 20000 millones de recaudación al Estado;Estado;Estado;obj;ORG
+Montero rechaza bajar el IRPF a rentas bajas y medias porque también beneficia al que gana 300000 euros;IRPF;IRPF;obj;MISC
+Fin del último refugio del ahorro la marca blanca dispara de golpe su precio un 11 en abril;marca blanca;marca;nsubj;OTHER
+Twitter negocia su venta a Elon Musk tras acercar posturas según la prensa estadounidense;Twitter;Twitter;nsubj;ORG
+BBVA eleva un 23 el precio de la OPA sobre el 5015 que no controla de Garanti;BBVA;BBVA;nsubj;ORG
+El caos en los controles de Barajas deja en tierra a 3000 pasajeros durante la Semana Santa;pasajeros;pasajeros;obj;OTHER
+El hachazo a los planes de pensiones hunde las aportaciones;planes pensiones;None;None;None
+Sin rastro del bono joven para el alquiler medio año después de su anuncio  Una noticia de ggines y de tonierres;bono Joven;None;None;None
+Las donaciones se disparan más del 30 ante el temor al castigo fiscal del Gobierno  Una noticia de salcelay1 y de danicb13;donaciones;donaciones;nsubj;OTHER
+Dimite la consejera delegada de Indra por las presiones del presidente impuesto por Moncloa  Por MJPerez_ABC;Indra;None;None;None
+Escrivá avanza que en abril se superarán por primera vez los 20 millones de afiliados;afiliados;None;None;None
+La tasa de inflación de la eurozona se dispara a una tasa récord del 74 en marzo;inflación ;None;None;None
+El impacto de adecuar el IRPF a la inflación ahorros de casi 500 euros y beneficios para las rentas bajas;IRPF;IRPF;obj;MISC
+La compraventa de viviendas registra su mejor febrero en 14 años tras subir las operaciones un 24;compraventa;compraventa;nsubj;OTHER
+La cotización de Netflix se desploma más de un 20 tras perder a 200000 suscriptores de enero a marzo;Netflix;None;None;None
+Alerta del FMI el déficit de España se enquistará en el 39 al menos hasta 2027;déficit ;déficit;nsubj;OTHER
+El precio de la luz baja un 2402 y se acerca a los niveles de hace un año;luz;None;None;None
+El turismo vuelve a tirar del empleo pero las empresas alertan de la espiral de costes;empleo;None;None;None
+El FMI mete la tijera por la guerra y recorta en un punto el crecimiento de España para 2022 hasta el 48;crecimiento ;crecimiento;obj;OTHER
+La Semana Santa resucita al turismo Ni el mal tiempo ha frenado las reservas;turismo;turismo;obj;OTHER
+Más de 109000 vacantes se quedan sin cubrir en la España de los más de tres millones de parados;vacantes;vacantes;nsubj;OTHER
+Sánchez recortará el crecimiento al filo de rendir cuentas a Europa;crecimiento;crecimiento;obj;OTHER
+El euríbor azota a las familias y endurece el acceso a la vivienda;euríbor;euríbor;nsubj;OTHER
+La elevada inflación pone en riesgo la viabilidad del 15 de las pymes españolas;pymes;None;None;None
+Shein la moda china ultrarrápida y barata que inquieta al textil europeo;Shein;Shein;nsubj;PER
+Escrivá confirma la subida del 15  para las pensiones no contributivas;pensiones;None;None;None
+Los embargos de vivienda habitual suben el 34  y alcanzan la mayor cifra en 5 años;embargos;embargos;nsubj;OTHER
+El paro cae en mayo y baja de los 3 millones por primera vez desde 2008;paro;paro;nsubj;OTHER
+España consolida la vuelta del turismo extranjero con 61 millones en abril;turismo;None;None;None
+El euríbor alcaza máximos desde 2015 y dispara el coste de las hipotecas;euríbor;euríbor;nsubj;OTHER
+La inflación de la eurozona se dispara siete décimas en mayo hasta el 81 ;inflación ;inflación;nsubj;OTHER
+Las pernoctaciones extrahoteleras subieron el 239  en abril y superan las precovid;pernoctaciones;pernoctaciones;nsubj;OTHER
+Sánchez resalta la unidad y firmeza de la UE al sancionar el petróleo ruso;petróleo;petróleo;obj;OTHER
+La Seguridad Social plantea nuevas cuotas para autónomos entre 250 y 550 euros;autónomos;None;None;None
+El juez procesa a Iberdrola Generación por alteración de precios en 2013;Iberdrola ;Iberdrola;obj;OTHER
+El déficit público se reduce un 78  en el primer trimestre a 4633 millones;déficit;déficit;nsubj;OTHER
+Sánchez asiste hoy al Consejo Europeo en el que pedirá más medidas en energía;energía ;None;None;None
+La inflación repunta en mayo hasta el 87  por la subida de los carburantes y los alimentos;inflación ;inflación;nsubj;OTHER
+Dos años de ingreso mínimo una ayuda contra la pobreza para 450000 hogares;ingreso mínimo ;None;None;None
+La Bolsa española sube el 048  y conquista los 8800 puntos;Bolsa;Bolsa;nsubj;ORG
+Ribera espera que la rebaja de la factura de la luz se note este mes de junio;luz;None;None;None
+Michel confía en un acuerdo sobre el petróleo ruso antes de la próxima cumbre europea;petróleo ;None;None;None
+Las condiciones financieras empeoran desde la invasión de Rusia a Ucrania;condiciones financieras;condiciones;nsubj;OTHER
+Maroto no prevé que la viruela del mono vaya a lastrar el turismo en España;turismo;turismo;obj;OTHER
+El Gobierno aprueba el perte de microchips dotado con 11000 millones;microchips;None;None;None
+Sánchez ofrece España en Davos como respuesta a la escasez de gas ruso;gas;None;None;None
+La Bolsa española sube el 1  tras la apertura con Siemens Gamesa disparada;Bolsa;Bolsa;nsubj;ORG
+El precio de la luz repunta casi un 14  este lunes sin superar 200 eurosMWh;luz;None;None;None
+Sánchez viaja este lunes a Davos en busca de inversiones en microchips;microchips;None;None;None
+FMI pide recuperar confianza ante mayor reto desde la segunda Guerra Mundial;FMI;FMI;nsubj;ORG
+El precio de la electricidad cae un 45  y será este domingo de 17056 MWh;electricidad;None;None;None
+Rusia cumple su amenaza y corta el gas a Finlandia por no pagar en rublos;Finlandia;Finlandia;obj;LOC
+El G7 moviliza 19800 millones de dólares de ayudas a Ucrania en 2022;Ucrania;None;None;None
+La facturación industrial cae el 61 en marzo el peor dato mensual en dos años;facturación industrial;facturación;nsubj;OTHER
+La inflación en Japón llegó al 21  en abril su nivel más alto en 7 años;inflación ;inflación;nsubj;OTHER
+La Bolsa española aumenta sus ganancias al 097 por la bajada de tipos en China;Bolsa;Bolsa;nsubj;ORG
+La compra de casas sube un 256  en marzo y toca el pico más alto en 14 años;compra;compra;nsubj;OTHER
+EEUU y la ONU presionan a Rusia para que permita exportar el cereal ucraniano;cereal;cereal;obj;OTHER
+El Banco de España avisa de que volverá a bajar el crecimiento previsto en 2022;crecimiento;crecimiento;obj;OTHER
+Los primeros pagos del Perte del coche eléctrico llegarán antes de fin de año;Perte;None;None;None
+La inflación británica sube al 9  su nivel más alto en 40 años;inflación ;inflación;nsubj;OTHER
+CaixaBank prevé una rentabilidad del 12  y generar 9000 millones de capital;Caixabank;None;None;None
+El PIB del primer trimestre subió un 03  en la eurozona y un 04  en la UE;PIB;PIB;nsubj;MISC
+La deuda pública marca un récord en marzo con 145 billones;deuda;deuda;nsubj;OTHER
+El déficit comercial se dispara hasta los 15416 millones por la energía;déficit ;déficit;nsubj;OTHER
+Bruselas cree que un corte total del gas ruso hundiría el PIB de la eurozona;gas;None;None;None
+Ryanair reduce sus pérdidas el 56  pero advierte de su frágil recuperación;Ryanair;Ryanair;nsubj;ORG
+Una firma surcoreana invertirá 600 millones en una planta de láminas de cobre en Tarragona  Cobre;planta;None;None;None
+Bruselas rebaja la previsión de crecimiento del PIB en España al 4  en 2022;PIB;None;None;None
+La gran banca reparte 540 millones en bonus en 2021 entre 1900 directivos;banca;banca;nsubj;OTHER
+El cierre de oficinas bancarias se agudiza en el arco mediterráneo y Madrid;oficinas;None;None;None
+El precio de la luz se dispara un 53  y alcanzará mañana los 19523 eurosMWh;luz;None;None;None
+Renfe vende 167110 billetes en un solo día récord desde el inicio del covid;Renfe;Renfe;nsubj;ORG
+Los contratos fijos iniciales se multiplicaron por más de cinco en abril;contratos;contratos;nsubj;OTHER
+Elon Musk frena la compra de Twitter hasta averigüar el número de cuentas falsas;Twitter;None;None;None
+El Gobierno aprueba el límite al precio del gas que bajará factura de la luz;gas;None;None;None
+La inflación se modera en abril una décima más de lo esperado hasta el 83 ;inflación ;inflación;nsubj;OTHER
+Sánchez asegura que hay más de 12000 empresas beneficiarias de los fondos de la UE;fondos;None;None;None
+Telefónica gana 706 millones en el primer trimestre de 2022 un 203  menos;Telefónica ;Telefónica;nsubj;OTHER
+La inflación se modera ligeramente en EEUU tras siete meses de escalada;inflación ;inflación;nsubj;OTHER
+Avianca y GOL crean el Grupo Abra un gigante latinoamericano de las aerolíneas;Abra;None;None;None
+El petróleo de Texas cierra con un alza del 6  hasta 10571 dólares;petróleo ;petróleo;nsubj;OTHER
+Sánchez eleva la cuantía del PERTE agroalimentario hasta los 1800 millones;PERTE;None;None;None
+Toyota ganó un 27  más en 2021 pese a problemas en la cadena de suministro;Toyota;Toyota;nsubj;ORG
+El IPC chino repunta al 21  en abril ante los rebrotes covid y las materias primas;IPC;IPC;nsubj;MISC
+La inflación interanual en Alemania alcanza el máximo en 40 años y llega al 74 ;inflación ;inflación;nsubj;OTHER
+El Gobierno aprobará finalmente este viernes el tope al precio del gas;gas;None;None;None
+Sony logró un beneficio neto de 6399 millones de euros en 2021 un 14  menos;Sony;Sony;nsubj;ORG
+El petróleo de Texas baja un 61  y cierra en 10309 dólares el barril;petróleo;petróleo;nsubj;OTHER
+La Comisión Europea da luz verde a la propuesta ibérica para poner tope al gas;gas;gas;obj;OTHER
+"La temporalidad en el empleo público alcanza un máximo histórico en el 325  en el primer trimestre de 2022
+
+Supera en más de diez puntos la tasa en el sector privado donde la temporalidad era del 221  en el mismo periodo";empleo;None;None;None
+Europa pierde más de 166000 camioneros adicionales por la guerra en Ucrania;camioneros;camioneros;obj;OTHER
+El Gobierno a la espera de la CE para aprobar cuanto antes el tope al gas;gas;gas;obj;OTHER
+La inflación en Chile alcanza un 14  en abril y se dispara a 105  en 12 meses;inflación;inflación;nsubj;OTHER
+La tasa de desempleo se mantuvo en el 36  en EEUU en abril;tasa desempleo;tasa;nsubj;OTHER
+Florentino Pérez abre nueva etapa en ACS con Juan Santamaría de número dos;ACS;None;None;None
+"La Bolsa española pierde el 090  y los 8400 puntos con IAG desplomado   
+
+Las acciones de IAG caían más del 8  tras presentar resultados";Bolsa;Bolsa;nsubj;ORG
+La inflación interanual de Colombia en abril fue de 92 la más alta en 21 años;inflación;inflación;nsubj;OTHER
+IAG perdió 787 millones en el primer trimestre un 267  menos que en 2021;IAG;IAG;nsubj;ORG
+Volkswagen tendrá operativa en 2026 la primera fábrica de baterías de España;Volkswagen;Volkswagen;nsubj;ORG
+El turismo internacional sigue la recuperación con cuatro millones en marzo;turismo;turismo;nsubj;OTHER
+La gasolina y el gasóleo marcan su precio más alto en el último mes;gasolina;gasolina;nsubj;OTHER
+El TJUE cierra la puerta a que los accionistas del Popular reclamen al Santander;accionistas;accionistas;nsubj;OTHER
+La Bolsa española abre con una subida del 157  tras la decisión de la Fed;Bolsa;Bolsa;nsubj;ORG
+EEUU sube los tipos de interés en medio punto el mayor incremento en dos décadas;tipos interés;tipos;obj;OTHER
+Se publican datos sobre la llegada de turistas a España en el primer trimestre;España;None;None;None
+El déficit comercial de EEUU se dispara un 223  en marzo;déficit comercial;déficit;nsubj;OTHER
+Bruselas propone excluir de SWIFT a Sberbank el mayor banco ruso;Sberbank;Sberbank;obj;ORG
+El crudo Brent sube el 227  hasta 10758 dólares;crudo Brent;crudo;nsubj;OTHER
+Bruselas pide el veto progresivo al petróleo ruso y castigar los crímenes de guerra;petróleo ruso;petróleo;obj;OTHER
+España rompe por primera vez la barrera de los 20 millones de afiliados;España;España;nsubj;LOC
+El paro bajó al 68  en la eurozona y al 62  en la UE en marzo;paro;paro;nsubj;OTHER
+El consumo de carburantes cae en marzo coincidiendo con huelga transportistas;carburantes;None;None;None
+La falta de suministros y el coste de la energía lastran el empleo industrial;empleo industrial ;empleo;obj;OTHER
+La banca cierra 26400 oficinas y reduce 100000 empleos desde crisis de 2008;Banca;None;None;None
+Los carburantes bajan un 10  en abril gracias a la bonificación pública;carburantes;carburantes;nsubj;OTHER
+La luz despide abril con una caída de más del 13  hasta 18645 eurosMWh;luz;luz;nsubj;OTHER
+Wall Street cierra con fuertes pérdidas;Wall Street;Wall;nsubj;LOC
+El Nasdaq cae un 417 ;Nasdaq;Nasdaq;nsubj;MISC
+CaixaBank gana 707 millones un 85 menos por el efecto contable de la fusión;Caixabank;None;None;None
+BBVA ganó hasta marzo 1651 millones un 36  más por la mejora de ingresos;BBVA;BBVA;nsubj;ORG
+La guerra frena el crecimiento económico al 03  en el primer trimestre;crecimiento;crecimiento;obj;OTHER
+Repsol duplica el beneficio hasta 1392 millones con la subida de los hidrocarburos;Repsol;Repsol;nsubj;ORG
+El empleo cae al inicio de año con 100200 ocupados menos y 70900 parados más;empleo;empleo;nsubj;OTHER
+Twitter gana 513 millones de dólares en el primer trimestre siete veces más;Twitter;Twitter;nsubj;ORG
+La economía de EEUU se contrajo un 04  en el primer trimestre del año;economía;economía;nsubj;OTHER
+El Gobierno salva el decreto anticrisis gracias a Bildu y sin el apoyo de ERC ni PP;Gobierno;Gobierno;nsubj;ORG
+La dependencia del gas ruso supera el 50  en catorce países europeos;gas;None;None;None
+Rusia anuncia que se retira de la Organización Mundial de Turismo;Rusia;Rusia;nsubj;ORG
+AENA perdió 964 millones en el primer trimestre el 60  menos;AENA;AENA;nsubj;ORG
+Gazprom confirma que ha suspendido por completo el gas a Polonia y Bulgaria;Gazprom;Gazprom;nsubj;ORG
+FMI los inversores ven Latinoamérica como solución a la escasez de la guerra;Larinoamérica;None;None;None
+El Gobierno aprueba ayudas de 85 millones a hoteleras Hesperia y Abba;hoteleras;None;None;None
+El mayor banco de Europa HSBC gana un 278  menos en el primer trimestre;HSBC;None;None;None
+Orange España ingresa 1132 millones hasta marzo un 46  menos que en 2021;Orange;Orange;nsubj;OTHER
+Elon Musk compra Twitter la plaza digital del pueblo por 44000 millones de dólares;Twitter;Twitter;obj;ORG
+Banco Santander gana 2543 millones de euros hasta marzo un 58  más;Santander;None;None;None
+El crudo Brent baja el 49  hasta 10127 dólares;crudo;crudo;nsubj;OTHER
+El precio de la luz aumenta este lunes un 54  hasta 22657 eurosMWh;luz;None;None;None
+El BCE convoca una reunión de urgencia ante los aumentos de las primas de riesgo europeas;primas;None;None;None
+Fracasa en su estreno el mecanismo del Gobierno para bajar el precio de la electricidad;mecanismo;mecanismo;nsubj;OTHER
+Tres de cada cuatro alemanes reducen o eliminan sus vacaciones por la inflación;alemanes;alemanes;nsubj;OTHER
+El alza de las materias primas provoca un desvío millonario de fondos UE al exterior;fondos;None;None;None
+Fuga de trabajadores digitales Aquí es distinto que en España Valoran más la capacidad que la experiencia;trabajadores;None;None;None
+Los tripulantes de cabina convocan seis jornadas de huelga en Ryanair para finales de junio y principios de julio;Ryanair;None;None;None
+España se convierte en una fábrica de talento digital para las multinacionales extranjeras;España;España;nsubj;LOC
+Una tormenta perfecta azota a los aeropuertos a las puertas de la campaña de verano;aeropuertos;aeropuertos;obj;OTHER
+El fondo para rescatar a empresas estratégicas de Sepi dejará al menos 5785 millones sin repartir;Sepi;None;None;None
+Parón total de los negocios con Argelia la banca insta a detener el comercio ante el bloqueo a España;negocios;None;None;None
+El Banco de España recorta su previsión de PIB al 41 y no descarta que el crecimiento sea aún menor;PIB;None;None;None
+El Corte Inglés deja atrás las pérdidas y obtiene un beneficio neto de 120 millones de euros en 2021;El Corte Inglés;Corte;nsubj;OTHER
+CSIF exige al Gobierno que apruebe de una vez el teletrabajo para los empleados públicos;empleados ;None;None;None
+Del azulejo a la fruta los sectores que se tambalean por el cerrojazo argelino;sectores;None;None;None
+El IPC vuelve a repuntar en mayo hasta el 87 por la subida de los carburantes y la cesta de la compra;IPC;IPC;nsubj;MISC
+El BCE finalizará sus compras de activos en julio y adelanta que subirá los tipos en 25 puntos básicos;BCE;BCE;nsubj;ORG
+Aena adjudicará tras el verano el primer contrato del plan inmobiliario de Barajas;Aena;Aena;nsubj;ORG
+El impacto de los fondos europeos en la economía española no se verá hasta 2025 o 2026;economía española;None;None;None
+Una ola de demandas zarandea el modelo de planes de pensiones de empleo impulsado por el Gobierno;Gobierno;Gobierno;obj;ORG
+El Gobierno descarta ya implantar peajes a corto plazo  foroABC;Gobierno;Gobierno;nsubj;ORG
+Las tarifas de la luz bajarán desde el día 15 al entrar en vigor el límite al precio del gas;luz;None;None;None
+El BCE abre hoy la puerta a la nueva normalidad monetaria;BCE;BCE;nsubj;ORG
+Una ola de demandas zarandea el modelo de planes de pensiones de empleo impulsado por el Gobierno;modelo;modelo;obj;OTHER
+Inditex gana 760 millones un 80 más en el primer trimestre con Marta Ortega al frente;Inditex;Inditex;nsubj;ORG
+Los ganaderos de vacuno de carne y los citricultores los mayores beneficiarios de las ayudas por Ucrania;ganaderos;ganaderos;nsubj;OTHER
+La patronal madrileña alerta del devastador efecto que tienen las colas de Barajas para la Marca España;Marca España;None;None;None
+China lleva al límite su ambición económica global usando a Rusia como peón;China;China;nsubj;ORG
+El euríbor revienta las previsiones y alcanza ya el 05;euríbor;euríbor;nsubj;OTHER
+Begoña Gómez rompe su contrato con el IE para emprender una nueva etapa profesional en la Complutense;IE;None;None;None
+Los secretos de inversión para que la inflación no se coma los ahorros que tenemos guardados en el banco;inflación;inflación;nsubj;OTHER
+Rapapolvo del Tribunal de Cuentas el Gobierno infravalora en 1074 millones el agujero de los ICO;Gobierno;None;None;None
+El rechazo a la propuesta de Escrivá para las cuotas de autónomos aleja el pacto a días del examen de Bruselas;Escrivá;None;None;None
+China lleva al límite su ambición económica global usando a Rusia como peón;China;China;nsubj;ORG
+La juez imputa a Plus Ultra y cita a su representante legal por el rescate de 53 millones del Gobierno;Plus Ultra;Plus;obj;ORG
+El IPC dispara los costes de las pymes un 23 en un año y estrangula la rentabilidad de miles de negocios;negocios;None;None;None
+Así suben las pensiones en Europa la esperanza de vida es clave;Europa;None;None;None
+Asalariados y pensionistas ya sufren el alza silenciosa del IRPF por la inflación;IRPF;None;None;None
+Esperpento histórico en el Congreso por el vodevil de la reforma de pensiones y la improvisación del Gobierno;Gobierno;None;None;None
+España se desmarca de Europa con pensiones ligadas solo al IPC y pone en riesgo los fondos;fondos;fondos;obj;OTHER
+Acerinox descarta una opa hostil de Aperam y sigue buscando oportunidades para crecer;Aperam;None;None;None
+LaLiga denuncia al PSG por infringir las normas de fair play financiero;PSG;None;None;None
+Nothing el nuevo fabricante de smartphones transparentes que desafía a Apple y Samsung;Nothing;Nothing;nsubj;OTHER
+Un banquero de Credit Suisse es destituido por enviar mensajes no autorizados a sus clientes;Credit Suisse ;None;None;None
+Nunca desde diciembre de 2020 el bitcoin había cotizado en niveles tan bajos;bitcoin;bitcoin;nsubj;OTHER
+La criptomoneda está a punto de perder también la barrera de los 20000;criptomoneda;criptomoneda;nsubj;OTHER
+El desplome no cesa;desplome;desplome;nsubj;OTHER
+El Tribunal General de la UE anula la multa de 1000 millones de euros a Qualcomm;Qualcomm;Qualcomm;obj;ORG
+"Un juzgado de Madrid investiga al dueño del Grupo Restalia José María Fernández Capitán a la propia sociedad y varias de sus filiales como 100 Montaditos por presuntamente estafar a decenas de franquiciados en España
+
+agzarzalejos vía";Restalia;None;None;None
+"Los inversores se preguntan hasta qué punto pueden aumentar el coste de la deuda de Italia sin hacer mella en la economía del país fuertemente endeudado mientras crece la venta en los mercados de bonos de la eurozona
+
+Vía FT";Italia;None;None;None
+Las grandes patronales industriales se rebelan contra el Gobierno por el fondo de renovables;Gobierno;Gobierno;obj;ORG
+Zaragoza reducirá la factura de la luz a familias y pymes con placas solares en lugares públicos;luz;None;None;None
+Triditive recauda 5 millones para acelerar la fabricación 3D en la industria;industria;None;None;None
+Un juez investiga al dueño de 100 Montaditos por estafa;100 Montaditos;None;None;None
+"El banco ha cerrado un acuerdo de tres años renovables con Riot Games creador de League of Legends LoL para patrocinar las competiciones de Europa y Latinoamérica
+
+EstelaMazo vía ";banco;banco;nsubj;OTHER
+El bitcoin en caída libre baja a 20000 dólares antes de la Fed;bitcoin;bitcoin;nsubj;OTHER
+"eleccionesAndalucía La estrategia de Moreno será su programa económico con bajadas de impuestos y proyectos liberalizadores En Madrid dio muy buen resultado y parece que será el mantra electoral del PP 
+
+Un análisis de JavierAyusoC";impuestos;None;None;None
+"La Autoridad de Preparación y Respuesta ante Emergencias Sanitarias de la CE HERA firma un contrato con Bavarian Nordic para la compra de 109090 dosis de su vacuna de 3ª generación contra la viruela del mono
+
+margacastillo74 vía ";HERA;None;None;None
+El salario medio de España es el tercero más alto de la UE en relación con el PIB por habitante;salario;salario;nsubj;OTHER
+"Compañías de base tecnológica como Klarna Bolt y Main Street han anunciado fuertes recortes en sus plantillas en las últimas semanas
+
+nicolasmsarries vía ";plantillas;None;None;None
+Nunsys saldrá a bolsa este verano;Nunsys;Nunsys;nsubj;ORG
+Hay una nueva ronda de subidas de los precios de las hipotecas a tipo fijo y está vez está afectando de lleno a los mejores préstamos bonificados del mercado en esta modalidad;hipotecas ;None;None;None
+El Ibex y los bancos españoles junto al mercado italiano entre los más castigados desde la reunión del BCE de la semana pasada al resurgir el peligro de fragmentación del euro;Ibex;Ibex;nsubj;ORG
+El aumento del coste de la deuda lleva a Italia a la zona de riesgo;Italia;Italia;obj;LOC
+Musk planea despedir al 10 de la plantilla de Tesla por un súper mal presentimiento sobre la economía;Tesla;None;None;None
+La CNMV suspende la cotización de Acerinox ante una posible fusión con Aperam;Acerinox;None;None;None
+Montero avala hacer fijos a 15000 temporales de empresas públicas;temporales;temporales;obj;OTHER
+Los alemanes compran un 77 menos de alimentos para soportar la subida de precios en el supermercado;alimentos ;None;None;None
+Garzón No necesita la misma subvención una gran fortuna que cobra 200000 euros al año que una pequeña;subvención ;subvención;obj;OTHER
+El desempleo se reduce en 99512 personas y baja de los tres millones impulsado por la campaña turística;desempleo ;desempleo;nsubj;OTHER
+Los expertos prevén mayor rigidez en los contratos por la reforma laboral y avisan de temporalidad encubierta;temporalidad;temporalidad;obj;OTHER
+Consumo anuncia que España tendrá una ley específica para regular las cajas botín de los videojuegos;videojuegos ;None;None;None
+Correos encara tres jornadas de huelga en medio de un clima de alta tensión entre CCOO y UGT y la empresa;Correos ;Correos;nsubj;OTHER
+La Justicia europea avala la resolución de Banco Popular y rechaza devolver el dinero a los accionistas;accionistas;accionistas;obj;OTHER
+Gazprom anuncia que ya ha cortado por completo el gas a la danesa Orsted y a Shell Europe;Gazprom;Gazprom;nsubj;ORG
+Iberia comienza a operar vuelos de largo radio con biocombustible de Repsol producido con residuos;Iberia;Iberia;nsubj;ORG
+La eurozona sufre el mayor encarecimiento de precios de su historia con la inflación media al 81;precios;None;None;None
+Jordi Sevilla anima a Sánchez a aceptar la oferta de Feijóo para bajar el IRPF a las rentas más bajas;IRPF;IRPF;obj;MISC
+El Banco de España avisa de que el cierre comercial con Rusia lastraría hasta un 18 el PIB español;PIB;PIB;obj;MISC
+Escrivá plantea una nueva reforma para autónomos con subidas de hasta el 90 de cuota a la Seguridad Social;autónomos ;None;None;None
+El precio del petróleo se dispara y marca máximos desde marzo tras el embargo de la UE a Rusia;petróleo ;None;None;None
+La inflación golpea a los millennials la generación de la doble crisis;millennials;millennials;obj;OTHER
+Escrivá plantea una nueva reforma para autónomos con subidas de hasta el 49 de cuota a la Seguridad Social;autónomos ;None;None;None
+Fin a la publicidad encubierta de los influencers y a las reseñas falsas en los comercios;influencers ;None;None;None
+La electricidad ha bajado un 34 a la espera del decreto que reducirá su precio un 15;electricidad ;electricidad;nsubj;OTHER
+La banca exprime el filón de las comisiones con sus clientes más fieles;banca;banca;nsubj;OTHER
+Límite 100 días la subida de tipos obliga a Sánchez a un giro de su política fiscal;tipos;None;None;None
+El IPC vuelve a subir en mayo hasta el 87 por el encarecimiento de los carburantes y los alimentos;IPC;IPC;nsubj;MISC
+Las firmas de hipotecas aumentan un 18 en marzo la mejor cifra desde 2011;hipotecas;None;None;None
+Demandan a Elon Musk por intentar hundir el valor de las acciones de Twitter;Twitter ;None;None;None
+Los economistas avisan al Gobierno de que o toman medidas ya o habrá recesión;recesión ;recesión;obj;OTHER
+Hacienda prepara ahora una subida fiscal a los estancos y a toda la cadena de valor del tabaco;tabaco;None;None;None
+La banca abre la guerra por los depósitos y vuelve a remunerarlos ante la subida de tipos de interés;depósitos;None;None;None
+El precio del alquiler ahoga al empleo turístico a las puertas del verano;alquiler;None;None;None
+La morosidad del Estado crece al nivel máximo en 20 años y asfixia a las pymes ya debe 110000 millones;pymes;pymes;obj;OTHER
+Los economistas alertan del sobredimensionamiento del sector público español y rebajan el crecimiento al 39;crecimiento ;crecimiento;obj;OTHER
+La carrera contrarreloj de las marcas por patrocinar cuanto antes a Carlos Alcaraz;marcas;None;None;None
+La temporalidad encubierta se dispara en la nueva contratación de fijos discontinuos tras la reforma laboral;temporalidad;temporalidad;nsubj;OTHER
+Aviso del Banco de España el bono del alquiler puede inflar aún más los precios;alquiler ;None;None;None
+La industria de bebidas se compromete a que el 50 de los refrescos en España sean bajos o sin calorías en 2025;refrescos;None;None;None
+Lagarde admite que no hay consenso dentro del BCEpara la primera subida de tipos de interés;tipos;None;None;None
+Estas son las 44780 plazas que se incluyen en la oferta de empleo público para 2022;empleo;None;None;None
+Garamendi rechaza ahora la subida de pensiones con el IPC y exige que se revise la ley aprobada hace seis meses;pensiones;None;None;None
+El Estado se queda en impuestos y cotizaciones sociales casi el 40 de la retribución de cada trabajador;Estado;Estado;nsubj;ORG
+El Consejo de Ministros aprueba elevar a casi 45000 plazas la mayor oferta pública de empleo de la historia;empleo;None;None;None
+La receta del CNMV para la próxima crisis facilitar el acceso a la financiación sin vulnerar a los inversores;CNMV;None;None;None
+Ribera se corrige ella misma y deja en el 15 la rebaja prevista de la luz del 30 al topar el precio del gas;luz;None;None;None
+Amenaza de huelga en Ryanair los sindicatos barajan paros europeos justo antes de agosto;Ryanair;None;None;None
+Gobierno y sindicatos pactan una oferta histórica de 30000 plazas de funcionarios 4000 de ellos interinos;funcionarios ;None;None;None
+Bruselas desvela que Sánchez mantiene su plan para subir los impuestos en 2023;impuestos ;impuestos;obj;OTHER
+Lagarde apunta a julio para la primera subida de tipos y a septiembre para abandonar las tasas negativas;tipos;None;None;None
+Dos de cada tres autónomos prevén subir sus precios si se mantiene la espiral inflacionista;autónomos ;autónomos;nsubj;OTHER
+La inflación acorrala al turismo vacaciones de verano más cortas y menos gasto en restaurantes;turismo;turismo;obj;OTHER
+La técnica de la cheapflation o cómo conseguir que sigas comprando pese a la subida de precios en el súper;cheapflation;None;None;None
+El Gobierno carga sobre los funcionarios la mitad del coste de la subida de las cotizaciones;funcionarios ;None;None;None
+Los pisos turísticos resucitan y agudizan la escasez del alquiler;alquiler;None;None;None
+Microsoft anuncia la construcción en los próximos meses de tres centros de datos en Madrid;Microsoft ;Microsoft;nsubj;OTHER
+Los planes de pensiones de Escrivá restarán hasta 5000 millones de ingresos en cuotas a la Seguridad Social;Seguridad Social;None;None;None
+Escrivá rechaza más de 1500 millones de euros de incentivos fiscales para el fondo público de pensiones;pensiones ;None;None;None
+El Banco de España alerta de niveles de deuda y déficit sin precedentes si no se reduce el gasto en pensiones;deuda;None;None;None
+El Supremo blinda los descuentos que Correos ofrece a AAPP bancos o eléctricas por buzonear sus envíos;Correos;Correos;nsubj;ORG
+El G7 prepara un Plan Marshall para Ucrania de 5000 millones de euros mensuales;Ucrania ;None;None;None
+Las bajas se disparan un 50 y el gasto en absentismo roza los 20000 millones;bajas;bajas;nsubj;OTHER
+El emir de Catar anuncia una inversión en España de 4700 millones de euros;España;None;None;None
+El TJUE admite reclamar por las cláusulas abusivas de hipotecas ejecutadas y con la vivienda vendida;TJUE;TJUE;nsubj;ORG
+La deuda pública vuelve a subir en marzo y repunta hasta el récord de 1453 billones de euros;deuda;deuda;nsubj;OTHER
+Peligra la aprobación del fondo público de pensiones por rechazo de los socios de Gobierno a la reforma Escrivá;pensiones;None;None;None
+Italia busca 400000 trabajadores para salvar la industria turística durante el verano;Italia;Italia;nsubj;ORG
+Caixabank aspira a una rentabilidad del 12 y generar 9000 millones de capital para los accionistas;Caixabank;Caixabank;nsubj;ORG
+Alemania legaliza las expropiaciones de empresas energéticas en situación de emergencia;Alemania ;Alemania;nsubj;OTHER
+Musk paraliza el acuerdo para comprar Twitter hasta conocer más detalles sobre el número de cuentas falsas;Twitter;Twitter;obj;ORG
+Luz verde al crédito con el que Iberia tomará el 20 de Air Europa;Iberia;Iberia;nsubj;ORG
+El Gobierno fuerza una bajada de la luz a costa de los beneficios extraordinarios de las eléctricas;luz;None;None;None
+La Sareb de Calviño legalizará a sus okupas con alquileres sociales;okupas;okupas;obj;OTHER
+Apple da el salto al 5G con el iPhone 12;Apple;Apple;nsubj;ORG
+Bankinter gana 220 millones hasta septiembre un 50 menos;Bankinter;Bankinter;nsubj;ORG
+Vueling garantiza el empleo de todos sus pilotos hasta el final de 2021;Vueling;Vueling;nsubj;ORG
+La actividad empresarial de la zona euro se contrajo en octubre por el empeoramiento de la epidemia;actividad empresarial;actividad;nsubj;OTHER
+Inditex firma un acuerdo para mantener el empleo con la transformación digital de la empresa;Inditex;Inditex;nsubj;ORG
+Macron renuncia a su pensión vitalicia para dar ejemplo;Macron;Macron;nsubj;ORG
+La segunda ola del coronavirus desploma un 82 el tráfico de los aeropuertos en España;aeropuertos;None;None;None
+La fiscalidad del automóvil se atasca en cinco carteras ministeriales;fiscalidad del automóvil;fiscalidad;nsubj;OTHER
+El Gobierno aprueba hoy bajar el IVA de las mascarillas al 4 y ampliar los avales del ICO;Gobierno;Gobierno;nsubj;ORG
+Las inmobiliarias se lanzan a comprar supermercados por 600 millones;inmobiliarias;inmobiliarias;nsubj;OTHER
+El deporte alcanza el 33 del PIB español y genera 414000 empleos;deporte;deporte;nsubj;OTHER
+País Vasco CastillaLa Mancha y Madrid se salvan de la debacle del paro en noviembre;País Vasco;País;nsubj;LOC
+El Covid19 recorta en 2150 millones el beneficio de las cotizadas catalanas;El Covid-19;None;None;None
+Francia prepara hasta 5000 millones de ayuda a Air France para la primavera según RTL;Air France;Air;obj;ORG
+OLeary no ve claro el futuro de IAG como dueña de British Airways tras el Brexit;futuro IAG;futuro;obj;OTHER
+Xavier Labandeira España es uno de los países más vulnerables al cambio climático;España;None;None;None
+Dia ficha al exdirector financiero de Vips e incorpora al consejo a su responsable en Brasil;Dia;Dia;nsubj;OTHER
+Vuelve el vértigo a los inversores en IAG y las aerolíneas europeas;inversores IAG;inversores;obj;OTHER
+Los cuatro fondos de Bolsa que ganan más del 27;fondos Bolsa;None;None;None
+Deutsche Bank dejará de hacer nuevos negocios con Trump tras décadas de colaboración;Deutsche Bank;Deutsche;nsubj;ORG
+El bono americano ya deja pérdidas del 24 en el año;bono americano;bono;nsubj;OTHER
+La SEC investiga a Exxon por la valoración de sus activos de la Cuenca Pérmica;Exxon;Exxon;obj;ORG
+El arte contemporáneo se encarece un 48 según Artprice;arte contemporáneo;arte;nsubj;OTHER
+Fitch mantiene la nota de la deuda griega en BB con perspectiva estable;deuda griega;None;None;None
+Crece el temor ante una burbuja tecnológica y los hedge funds se hacen fuertes en plena pandemia;burbuja tecnológica;None;None;None
+El fondo de recuperación de la UE va demasiado lento según el ministro de economía francés;fondo recuperación UE;fondo;nsubj;OTHER
+Peligroso atasco en los fondos que invierten en renovables;fondos;None;None;None
+España a la cola en la concesión de ayudas públicas en Europa destina solo el 04 del PIB;España;España;nsubj;ORG
+Los economistas critican el plazo de entrada en vigor de la Ley de Auditoría;Ley Auditoría;None;None;None
+Renfe pierde 480 millones tras un año sin apenas viajeros en el AVE;Renfe;Renfe;nsubj;ORG
+El Banco de Inglaterra no mueve ficha pero anuncia una recuperación muy rápida de la economía en 2021;Banco;Banco;nsubj;OTHER
+Santander aprueba la salida a Bolsa de Getnet para impulsar su nueva plataforma de pagos PagoNxt;Santander;Santander;nsubj;LOC
+Alcampo amplía capital tras culminar su reestructuración societaria en España;Alcampo;Alcampo;nsubj;ORG
+70 puestos cotizados para trabajar en 12 sectores emergentes;70 puestos cotizados;None;None;None
+Gransolar explora su venta por hasta 1000 millones;Gransolar;Gransolar;nsubj;ORG
+Así es el plan del Gobierno para salvar empresas quitas y entrar en el capital;plan Gobierno ;plan;nsubj;OTHER
+Three Gorges cierra la compra de las renovables de los Masaveu;Three Gorges;Three;nsubj;PER
+Los analistas apuntan a que Telefónica bajará el dividendo para mejorar su posición financiera;Telefónica;Telefónica;nsubj;ORG
+España el país de la Unión Europea donde más crece la desigualdad salarial;España;España;nsubj;LOC
+Las lagunas legislativas sobre la intervención de las CCAA amenazan la eficacia de los Perte;lagunas legislativas;lagunas;nsubj;OTHER
+Aena destinará al menos 1500 millones de euros a ampliar El Prat a partir de 2024;Aena;Aena;nsubj;ORG
+Richi Arambarri Vintae La empresa no está para que vivamos mejor;empresa;None;None;None
+Stripe el mayor unicornio de Silicon Valley tras ser valorada en 95000 millones de dólares;Stripe;Stripe;nsubj;MISC
+Cinco valores triplican la recuperación del Ibex en los últimos 12 meses;Ibex;None;None;None
+Wikipedia lanzará su versión de pago para empresas a final de año;Wikipedia;Wikipedia;nsubj;ORG
+Samsung lanza dos nuevos smartphones de gama media con mejores pantallas y 5G;Samsung;Samsung;nsubj;ORG
+El Ibex salva los 8400 puntos gracias al giro alcista en Wall Street;Ibex;Ibex;nsubj;ORG
+El asistente oficial de Hacienda cuyas soluciones podrás descargar en PDF;asistente Hacienda;None;None;None
+Codere pide 100 millones más a sus bonistas y estudia capitalizar parte de su deuda;Codere;Codere;nsubj;ORG
+CaixaBank iniciará este lunes la unificación de la marca en su red de oficinas;CaixaBank;CaixaBank;nsubj;ORG
+Las trabajadoras en ERTE no pueden cobrar la prestación por riesgo en el embarazo;trabajadoras;trabajadoras;nsubj;OTHER
+Francia dará primas a los que desguacen su coche para comprar una bicicleta;Francia;Francia;nsubj;LOC
+Cellnex cierra su macroampliación de capital con fuerte demanda;Cellnex;Cellnex;nsubj;ORG
+Meliá trabaja en China con ocupaciones que llegan incluso al 100;Meliá;Meliá;nsubj;PER
+El Gobierno se compromete a subir las pensiones conforme al IPC y no habrá compensaciones por inflación negativa;pensiones;pensiones;obj;OTHER
+Openbank nuevo patrocinador oficial del Mutua Madrid Open;Openbank;Openbank;nsubj;ORG
+Cellnex salta mañana al cuarto puesto por capitalización;Cellnex;Cellnex;nsubj;ORG
+ETL lanza Medvision para el colectivo médico;Medvision;Medvision;obj;MISC
+Renfe suspende una licitación de 1300 millones por contaminante;Renfe;Renfe;nsubj;ORG
+Catarata de subidas de impuestos y nuevas tasas para este año y 2022;impuestos tasas;None;None;None
+Las aseguradoras verán reducida su red bancaria en 1560 oficinas;aseguradoras;aseguradoras;nsubj;OTHER
+Ferrovial y Acciona impugnan el principal contrato de Colau;Ferrovial;Ferrovial;nsubj;ORG
+CaixaBank planea igualar las condiciones laborales de su plantilla y la de Bankia;CaixaBank;CaixaBank;nsubj;ORG
+Los usuarios del transporte público aumentaron un 316 en marzo la primera subida en pandemia;usuarios;usuarios;nsubj;OTHER
+Nestlé Heineken y PG fueron las marcas que más innovación llevaron a los supermercados en 2020;Nestlé;Nestlé;nsubj;OTHER
+El Gobierno encarecerá el recibo de la luz por la interconexión con Marruecos;luz;None;None;None
+BBVA primer banco español en sumarse a la Alianza para la Contabilidad del Carbono;BBVA;BBVA;nsubj;ORG
+WhatsApp añade nuevas funciones para mejorar la comunicación entre empresas y clientes;WhatsApp;WhatsApp;nsubj;ORG
+CaixaBank se abre a rebajar más los despidos por el ERE;CaixaBank;CaixaBank;nsubj;ORG
+Acerinox se desploma un 7 Nippon Steel coloca el 79 a 102 euros;Acerinox;Acerinox;nsubj;ORG
+Las empresas ya trasladan a los precios la presión de las materias primas y la energía;empresas;empresas;nsubj;OTHER
+Así es como Tous Scalpers y DFranklin pisan el acelerador digital tras el Covid19;Tous;Tous;nsubj;OTHER
+Openbank abarata la hipoteca fija a los clientes más diligentes;Openbank;Openbank;nsubj;ORG
+Primafrio cancela su salida a Bolsa por la baja demanda;Primafrio;Primafrio;nsubj;PER
+Primafrio aplaza su salida a Bolsa;Primafrio;Primafrio;nsubj;PER
+El Tribunal Supremo convierte en indefinidos a los interinos que lleven más de tres años en la Administración;indefinidos;indefinidos;obj;OTHER
+Repsol sale al mercado para captar 1250 millones en deuda sostenible;Repsol;Repsol;nsubj;ORG
+Un plan de acción para reflotar el sector turístico;plan acción;None;None;None
+La banca puede convertirse en el sector con mayor rentabilidad por dividendo;banca;banca;nsubj;OTHER
+Alemania podría incluir a toda España en la zona de riesgo por Covid;España;España;obj;LOC
+Santander Estamos atentos a oportunidades inorgánicas en EEUU;Santander;Santander;nsubj;LOC
+Recuperación e inflación protagonistas de este semestre en los fondos;Recuperación;None;None;None
+La firma de hipotecas alcanza niveles prepandemia y el tipo fijo gana adeptos;firma de hipotecas;firma;nsubj;OTHER
+Tras los descalabros del lunes el Ibex 35 lanza un claro mensaje de fortaleza;Ibex;Ibex;nsubj;OTHER
+Santander planta cara a los gigantes de Wall Street;Santander;Santander;nsubj;LOC
+El Corte Inglés eleva un 14 la deuda desde febrero tras unos gastos extra de 220 millones;Corte Inglés;Corte;nsubj;ORG
+Wallbox promete a sus inversores la instalación de nuevas plantas por todo el mundo;Wallbox;Wallbox;nsubj;ORG
+Goldman baja del 9 al 55 su previsión de alza del PIB de EE UU del tercer trimestre;Goldman;Goldman;nsubj;PER
+Disa redujo un 38 su negocio petrolero por el Covid;Disa;Disa;nsubj;ORG
+El IPC escala al 33 y elevará la factura de las pensiones en más de 3200 millones;IPC;IPC;nsubj;MISC
+La banca europea afronta su última oportunidad para crear un gran campeón de los pagos;banca europea;banca;nsubj;OTHER
+La reforma de las pensiones sigue estando pendiente;pensiones;None;None;None
+La UE y AstraZeneca ponen fin a la batalla legal por los retrasos de entregas de vacunas;UE;UE;nsubj;ORG
+Fitch Moodys y SP otorgan grado de inversión a Cepsa;Cepsa;Cepsa;obj;ORG
+Frinsa proveedor de atún de Lidl o Carrefour facturó un récord de 588 millones en 2020;Frinsa;Frinsa;nsubj;ORG
+El proyecto energético del Gobierno sale victorioso de su reválida en el Congreso;proyecto energético;proyecto;nsubj;OTHER
+Google reduce beneficio en España tras elevar un 31 la plantilla de la filial;Google;Google;nsubj;ORG
+Mirakl capta 472 millones para expandir el negocio de los marketplace;Mirakl;Mirakl;nsubj;ORG
+Calviño aboga por retrasar la reforma fiscal hasta la recuperación;reforma fiscal;reforma;obj;OTHER
+Los economistas ultiman rebajar del 6 su previsión de crecimiento para 2021 tras la revisión a la baja del INE;crecimiento;None;None;None
+Las autoridades chinas detienen al presidente y al consejero delegado de HNA;HNA;None;None;None
+La voracidad de China con el carbón impulsará aún más los precios de la energía;precios energía;precios;obj;OTHER
+Argelia garantiza a España la continuidad del suministro de gas;España;España;obj;LOC
+Diez años después de la muerte de Steve Jobs Apple sigue siendo la empresa más valiosa del mundo;Apple;None;None;None
+Renfe afronta mañana un nuevo día de paros parciales de los maquinistas;Renfe;Renfe;nsubj;ORG
+La UE reduce su lista de paraísos fiscales en medio del escándalo por los Papeles de Pandora;UE;UE;nsubj;ORG
+Más recortes para el ahorro en planes de pensiones;planes pensiones;None;None;None
+Presupuesto populista con cimientos frágiles;Presupuesto populista;None;None;None
+Empieza el juicio por los 500 seísmos que causó la inyección de gas en Castor;Castor;None;None;None
+Bancos y turísticas frenan el repunte de pagos de dividendos en 2021;pagos dividendos;None;None;None
+CaixaBank pierde cuota en empresas por la fusión ganan Bankinter y Sabadell;CaixaBank;CaixaBank;nsubj;ORG
+Los grandes valores más baratos de Europa incluyen a Banco Santander y BBVA;Satander;None;None;None
+Las Big Tech crecen un 26 con el impulso de Microsoft y Google;Big Tech;Big;nsubj;ORG
+Squid así colapsó la criptomoneda del Juego del calamar;Squid;Squid;nsubj;ORG
+Facebook sabe que es nocivo para 360 millones de usuarios el 125 del total;Facebook;Facebook;nsubj;ORG
+Biden no cree que la OPEP vaya a ayudar con los precios del petróleo;OPEP+;OPEP;nsubj;OTHER
+Sabadell coloca 750 millones de euros en cocos al 5;Sabadell;Sabadell;nsubj;LOC
+Igualada reinventa su industria de la moda tricot para el fast fashion y piel para el lujo;Igualada;Igualada;nsubj;LOC
+La Caixa invierte 150 millones en un proyecto urbanístico en Andorra;Caixa;Caixa;nsubj;OTHER
+Glencore vende un 40 de su negocio agrícola a un fondo canadiense;Glencore;Glencore;nsubj;ORG
+Pikolin único finalista español al premio a la Excelencia Logística;Pikolin;Pikolin;nsubj;PER
+Las ventas de vehículos de ocasión cae un 97 en el primer trimestre del año;ventas de vehículos;ventas;nsubj;OTHER
+La incubadora del CEEIARAGON acoge tres nuevas empresas;CEEIARAGON;None;None;None
+El agua elemento imprescindible para el desarrollo económico;agua;None;None;None
+Grup Peralada compra el edificio de Versace en el Passeig de Gràcia;Grup Peralada;Grup;nsubj;ORG
+El BCE invierte 348 millones en sus primeras compras de bonos de empresas;El BCE;BCE;nsubj;OTHER
+Los hogares aragoneses podrían ahorrar 158 millones al año en la factura energética;hogares aragoneses;hogares;nsubj;OTHER
+La AIReF asegura que el PIB creció un 075 en el segundo trimestre y repuntará un 08 en el tercero;PIB;PIB;nsubj;MISC
+El sector servicios crece al ritmo más rápido desde noviembre;sector servicios;sector;nsubj;OTHER
+Ortiz devuelve 41 millones a Ikea y reclama 20 millones a Alicante y el Consell por errores;Ortiz;Ortiz;nsubj;PER
+Los nuevos ERTE mantienen la prohibición de despedir y eliminan las ventajas sociales a las empresas que no formen;ERTE;ERTE;nsubj;ORG
+Santander ganó 2911 millones de euros un 32 menos y supera previsiones;Santander;Santander;nsubj;LOC
+Hugo Boss advierte de que no cumplirá previsiones por el descenso de ventas en China;Hugo Boss;Hugo;nsubj;PER
+Avinatur sitúa su planta de Granada a la cabeza del sector;Avinatur;Avinatur;nsubj;ORG
+Pérez Baquero abrirá un hotel de 5 estrellas junto a Plaça Catalunya;Pérez Baquero;Pérez;nsubj;PER
+Banco Sabadell supera las previsiones y eleva su beneficio un 116 hasta septiembre;Banco Sabadell;Banco;nsubj;ORG
+El número de desempleados aumenta en 932 personas en octubre;número desempleados;número;nsubj;OTHER
+Destinia cierra el Black Friday con una subida del 34 en su facturación;Destinia;Destinia;nsubj;ORG
+El verano creó 5000 empleos más en los mayores destinos;empleo;None;None;None
+El Sorteo de Navidad deja 146 millones en la provincia de Badajoz;Badajoz;None;None;None
+Grocasa Hipotecas consolida su crecimiento en 2021;Grocasa Hipotecas;Grocasa;nsubj;MISC
+Las empresas han dado un salto de competitividad;empresas;empresas;nsubj;OTHER
+Los trabajadores de Nueva Pescanova irán a la huelga el 14 y el 21 de marzo;trabajadores de Nueva Pescanova;trabajadores;nsubj;OTHER
+China lidera una nueva energía nuclear limpia y barata basada en el torio;China;China;nsubj;ORG
+El Chart de Hódar Liberbank a la cabeza del sector;Liberbank;None;None;None
+Moneycorp crece en España con las miras puestas en América Latina;Moneycorp;Moneycorp;nsubj;ORG
+Wall Street vuelve a tirar del carro;Wall Street;Wall;nsubj;LOC
+El PIB francés crece un 03 en el primer trimestre;PIB;PIB;nsubj;MISC
+Empark se adjudica su primer contrato en Francia;Empark;Empark;nsubj;ORG
+Apple añade a su familia de tabletas un iPad Pro de 105 pulgadas;Apple;Apple;nsubj;ORG
+Primark abre la tienda más grande de Cataluña en Tarragona;Primark;Primark;nsubj;ORG
+España el país más barato de la eurozona para comprar ropa;España;España;nsubj;LOC
+IBM presenta un procesador cuántico cuya capacidad de cálculo es imposible de simular con un ordenador clásico;IBM;IBM;nsubj;ORG
+Diez planes de pensiones con rentabilidades superiores al 30;planes de pensiones;None;None;None
+Boeing sube en bolsa después de volver a la senda de los beneficios tras dos años;Boeing;Boeing;nsubj;ORG
+Ericsson podría recortar hasta 25000 empleos fuera de Suecia;Ericsson;Ericsson;nsubj;ORG
+La producción industrial modera su avance en julio con un alza del 2;producción industrial;producción;nsubj;OTHER
+Las empresas del Ibex 35 desaprovechan el potencial de las redes sociales;empresas;empresas;nsubj;OTHER
+Las gestoras catalanas frenan los reembolsos de sus fondos;gestoras catalanas;gestoras;nsubj;OTHER
+El fondo Lone Star cierra la compra de Novo Banco;Lone Star;None;None;None
+Ávoris compra a Globalia la marca Latitudes;Ávoris;Ávoris;nsubj;ORG
+Pensiones en España tenemos un problema;Pensiones;Pensiones;nsubj;OTHER
+Solaria ganó 56 millones de euros hasta septiembre casi el doble;Solaria;Solaria;nsubj;ORG
+Vodafone una vieja estrella de rock;Vodafone;Vodafone;nsubj;ORG
+Fomento tendrá licitadas las obras de los seis tramos del Corredor MurciaAlmería antes de junio de 2018;Fomento;Fomento;nsubj;LOC
+El Gobierno destaca el ejemplo de reconversión de Chocolates Trapa;Chocolates Trapa;None;None;None
+Allen  Overy y Herbert las marcas más valoradas de Europa;Allen Overy;None;None;None
+Correos abre su Departamento de Envíos Extraordinarios por Navidad;Correos;Correos;nsubj;ORG
+El Gobierno de Aragón resuelve casi mil becas para universitarios aragoneses;Gobierno de Aragón;Gobierno;nsubj;ORG
+Roberto Scholtes La Bolsa europea puede subir hasta un 12 este año;La Bolsa europea;None;None;None
+El precio de la vivienda nueva sube un 5 en 2017 la mayor subida en diez años;precio vivienda nueva;precio;nsubj;OTHER
+El futbolista del Real Madrid Marcelo paga medio millón de euros a Hacienda y evita una pena de cárcel de 4 meses;Marcelo;None;None;None
+HSBC toma un 69 de Axiare en plena opa de Colonial;HSBC;HSBC;nsubj;ORG
+Aragón sigue fortaleciendo sus relaciones comerciales con Yiwu;Aragón;Aragón;nsubj;LOC
+Inditex es optimista ante el cierre de su ejercicio;Inditex;Inditex;nsubj;ORG
+El recibo de la luz bajaría un 55 en 2050 si se cumpliera la reducción de emisiones;recibo luz;recibo;nsubj;OTHER
+Ana Botín ingresará este jueves 121 millones de euros por el tercer dividendo a cuenta de Santander;Ana Botín;Ana;nsubj;PER
+Siemens Gamesa el ajuste de plantilla no se hizo bien porque hubo mucho ruido y rumores;Siemens Gamesa;Siemens;nsubj;ORG
+Aena estudia mejorar el dividendo para aplacar las exigencias de TCI;Aena;Aena;nsubj;ORG
+España pierde su segundo arbitraje internacional por el recorte de las primas a las renovables;España;España;nsubj;LOC
+Así puede obligarte tu banco a pagar comisiones puede pasar en esos casos;banco;banco;obj;OTHER
+Amazon duplicará plantilla en España con la creación de 1600 empleos en 2018;Amazon;Amazon;nsubj;ORG
+Citroën lanza unas gafas antimareo para facilitar la operación salida y los viajes en coche;Citroën;Citroën;nsubj;ORG
+El mayor fabricante mundial de semiconductores afectado por un virus informático;fabricante;None;None;None
+Tercer mes a la baja en el Ibex35;Ibex;None;None;None
+Las bolsas suben aupadas por el crudo y pese al FMI;bolsas;bolsas;nsubj;OTHER
+Aena registró 427 millones de pasajeros hasta marzo un 144 más;Aena;Aena;nsubj;ORG
+Se duplican los accidentes laborales mortales en Euskadi con once fallecidos hasta marzo;accidentes laborales;accidentes;nsubj;OTHER
+Los maquinistas de Renfe convocan cuatro días de huelga en junio;Renfe;None;None;None
+España se mantiene como el segundo país de la eurozona con mayor tasa de paro;España;España;nsubj;LOC
+El Ibex recupera un 248 de la sangría postBrexit;Ibex;Ibex;nsubj;ORG
+Amazon planta cara a El Corte Inglés entrega en 1 hora alimentos frescos;Amazon;Amazon;nsubj;ORG
+Picardo Un brexit duro para el Reino Unido amenazaría la economía de Gibraltar;economía Gibraltar;economía;obj;OTHER
+Un 20 de las horas extras trabajadas en la hostelería son en negro;horas extras;None;None;None
+Sánchez anuncia nuevas ayudas a los hogares vulnerables en invierno;hogares vulnerables;hogares;obj;OTHER
+Unicaja ofrece prejubilaciones a los 57 años en su ERE;Unicaja;Unicaja;nsubj;ORG
+El G7 empuja la reforma fiscal que obligará a pagar más a las multinacionales;multinacionales;multinacionales;obj;OTHER
+Los carburantes repuntan a nuevos máximos y acumulan un encarecimiento de hasta el 15;carburantes;carburantes;nsubj;OTHER
+Calviño quiere aumentar el escaso 7 de pymes que trabajan con Inteligencia Artificial;pymes;None;None;None
+Francia estrena el derecho a la desconexión laboral;desconexión laboral;None;None;None
+El acuerdo extrajudicial contempla la devolución de las cláusulas suelo en tres meses;cláusulas suelo;None;None;None
+Maroto prevé meses duros pero confía en recuperar el turismo antes del verano;turismo;turismo;obj;OTHER
+La mitad de los españoles reducirá sus gastos esta Navidad;españoles;españoles;nsubj;OTHER
+Una de cada diez empresas cerrará y la mitad entrará en pérdidas;empresas;None;None;None
+La cuota de los autónomos sube hasta 24 euros más al mes;cuota;cuota;nsubj;OTHER
+Los desahucios en el nivel más bajo desde 2014 tras caer un 64 el año pasado;desahucios;None;None;None
+BBVA y Sabadell se repartirán la cúpula de la entidad fusionada;BBVA;BBVA;nsubj;ORG
+El Ibex 35 lidera Europa y se asienta sobre los 9800 puntos;Ibex;Ibex;nsubj;OTHER
+La banca estadounidense también se suma al exilio fiscal;banca estadounidense;banca;nsubj;OTHER
+El Popular cierra su semana negra con pérdidas de 800 millones en Bolsa;Popular;Popular;nsubj;ORG
+La fortaleza del euro entorpece la recuperación del Viejo Continente;recuperación del Viajo Continente;recuperación;obj;OTHER
+Calviño calcula un crecimiento superior al 10 en el tercer trimestre;crecimiento;crecimiento;obj;OTHER
+El sector fintech se alía con el ahorro;sector fintech;sector;nsubj;OTHER
+Inditex Mercadona y Santander las empresas con mejor reputación corporativa en España;Inditex;Inditex;nsubj;OTHER
+Bajas comisiones factor esencial al elegir banco;Bajas comisiones;None;None;None
+Mercadona contrata a 7000 personas para el verano;Mercadona;Mercadona;nsubj;ORG
+Nissan amaga con cerrar la planta de Barcelona ante la huelga de la plantilla;Nissan;Nissan;nsubj;ORG
+Bankia asume otro ajuste de red y plantilla al absorber BMN;Bankia;Bankia;nsubj;ORG
+Los hogares aumentaron sus compras un 180 esta semana ante el repunte del coronavirus;hogares;hogares;nsubj;OTHER
+La CNMV prohíbe las ventas en corto sobre acciones de 69 sociedades por el impacto del coronavirus;ventas;ventas;obj;OTHER
+La UE devuelve a Panamá a su lista negra de paraísos fiscales;Panamá;Panamá;obj;LOC
+Ferrero compra a Nestle su negocio de dulces en EEUU por unos 2300 millones;Ferrero;Ferrero;nsubj;PER
+Telefónica consolida su racha alcista y alcanza máximos de dos meses;Telefónica;Telefónica;nsubj;ORG
+Bruselas denunciará a España ante el TUE si no aplica las normas europeas sobre fondos de inversión;España;España;obj;LOC
+Airbnb ficha a un directivo de Amazon como director financiero global;Airbnb;Airbnb;nsubj;ORG
+El Supremo avala anular las 35 horas semanales para los funcionarios vascos;funcionarios vascos;None;None;None
+El bitcóin cae a mínimos de dos meses tras la prohibición de publicidad en Facebook;bitcóin;bitcóin;nsubj;OTHER
+El Ibex35 pierde un 029 en la sesión y gana un 014 en octubre;Ibex;None;None;None
+BBVA líder mundial en banca móvil por tercer año consecutivo;BBVA;None;None;None
+El Black Friday salva la venta de coches en Euskadi;venta de coches;venta;obj;OTHER
+Realia gana un 74 menos en 2017 por los extraordinarios de 2016;Realia;Realia;nsubj;ORG
+Los sueldos inician su recuperación en Euskadi tras cuatro años de bajadas;sueldos;sueldos;nsubj;OTHER
+Dava Newman Amazon será un actor importante en la comercialización del espacio;Amazon;None;None;None
+El Ibex35 se marea con el BCE la investidura fallida y los resultados y pierde los 9300 puntos;Ibex;None;None;None
+Las familias sacan 50000 millones de depósitos en un año por su baja rentabilidad;familias;familias;nsubj;OTHER
+La CEOE pide un pacto de estado para impulsar la industria;Industria;None;None;None
+La Eurocámara exige la mejora de las condiciones laborales en el sector de la aviación;condiciones labolares;None;None;None
+Sabadell negocia la venta de carteras inmobiliarias valoradas en 3300 millones;Sabadell;Sabadell;nsubj;LOC
+El banco central de China sube los tipos interbancarios tras el alza de la Fed;tipos;tipos;obj;OTHER
+El IBEX 09 transita en rojo por un miércoles santo que deja pérdidas en resto de Bolsas europeas;IBEX;IBEX;nsubj;OTHER
+El precio de la vivienda sube el 62 en 2017 el mayor avance en diez años;precio vivienda;precio;nsubj;OTHER
+La afiliación de extranjeros logra su mejor febrero en una década;afiliación de extranjeros;afiliación;nsubj;OTHER
+Lindorff anuncia el despido de 449 trabajadores en España;Lindorff;Lindorff;nsubj;PER
+Sube solo un 2 el tipo efectivo que las empresas pagan a Hacienda;tipo efectivo ;tipo;nsubj;OTHER
+Reale Seguros logra un resultado récord de 57 millones de euros;Reale Seguros;Reale;nsubj;ORG
+El Barça líder financiero de los campeones de liga;Barça;Barça;nsubj;ORG
+La bajada de los alimentos deja la subida de precios de enero en el 1;precios;None;None;None
+El déficit público en la eurozona sube al 05 en el tercer trimestre;déficit público;déficit;nsubj;OTHER
+Las empresas aportan la mitad que hace 10 años a las cuentas del Estado;cuentas del Estado;cuentas;obj;OTHER
+Los taxistas se trasladan al centro de Madrid en su séptimo día de huelga;taxistas;taxistas;nsubj;OTHER
+Deloitte prevé más compras en el azulejo pese a la ralentización;Deloitte;Deloitte;nsubj;ORG
+Samsung aumentó su beneficio neto un 512 en 2018;Samsung;Samsung;nsubj;ORG
+Irene Lozano España puede ocupar el espacio que deja Reino Unido en la UE;España;None;None;None
+Los ingresos minoristas de las telecos cayeron un 13 en el tercer trimestre del año pasado;ingresos minoristas;ingresos;nsubj;OTHER
+El Ibex35 cae un 48 en agosto cierra al filo de los 9400 puntos casi en mínimos anuales;Ibex;None;None;None
+Lidl eliminará las bolsas de plástico de todas sus tiendas en España;Lidl;Lidl;nsubj;ORG
+Inveravante Manuel Jove y BBVA levantan viviendas de lujo en el centro de Madrid;Inveravante;Inveravante;nsubj;OTHER
+La inflación de China se mantiene en el 18 en mayo;inflación;inflación;nsubj;OTHER
+Las acciones de la Juventus caen un 3 tras fichar a Cristiano;Juventus;None;None;None
+Las mujeres cobran de media un 30 menos que los hombres según Gestha;mujeres;mujeres;nsubj;OTHER
+La mudanza de la TDT para dar paso al 5G puede costar 350 millones en ayudas;mudanza;mudanza;nsubj;OTHER
+Habitat suma ya suelo para levantar 10000 viviendas;Habitat;Habitat;nsubj;ORG
+Facebook ve esfumarse 119000 millones de dólares de su capitalización;Facebook;Facebook;nsubj;ORG
+Bolinches Mientras el Ibex aguante los 9750 sigue en la senda del 10000;Ibex;Ibex;nsubj;MISC
+China expresa su apoyo a Turquía ante crisis monetaria y tensiones con EEUU;China;China;nsubj;ORG
+El vaivén de Donald Trump con los aranceles de China sacude todas las bolsas mundiales;bolsas mundiales;bolsas;obj;OTHER
+Boeing detecta piezas defectuosas en más de 300 aviones del modelo 737;Boeing;Boeing;nsubj;ORG
+La deuda de las familias se reduce en 6800 millones de euros en julio;deuda de las familias;deuda;nsubj;OTHER
+Bankia prevé terminar el ERE el próximo 30 de noviembre;Bankia;Bankia;nsubj;ORG
+Los índices europeos parecen haber entrado en modo rebote;índices europeos;índices;nsubj;OTHER
+Los malos resultados de ArcelorMittal preocupan a las plantas del País Vasco; ArcelorMittal;None;None;None
+La AIReF cree que España podría rebajar el déficit al 3 o inferior;España;España;nsubj;LOC
+Santander abrirá desde este lunes 500 oficinas por la tarde;Santander;Santander;nsubj;LOC
+MásMóvil lidera el crecimiento de móviles en septiembre con 42000 líneas;MásMóvil;MásMóvil;nsubj;ORG
+El Corte Inglés gana un 24 más con un récord de ventas en cinco años;Corte Inglés;Corte;nsubj;ORG
+Airbus reclama lanzar nuevos programas europeos para seguir creciendo;Airbus;Airbus;nsubj;ORG
+El Ibex35 sube un 104 con todos sus valores en verde;Ibex;None;None;None
+Iberdrola da un paso más en el desarrollo de su macroproyecto eólico marino en Massachusetts;Iberdrola;Iberdrola;nsubj;ORG
+Rajoy cifra en el 32 el crecimiento de España durante 2015;España;None;None;None
+Iberdrola apuesta por la eólica marina y las subastas para duplicar su cartera verde en EEUU;Iberdrola;Iberdrola;nsubj;ORG
+Realia crea una filial patrimonial para entrar en el negocio de alquiler de vivienda;Realia;Realia;nsubj;ORG
+China acerca posturas con EE UU y retira los aranceles a la soja y el cerdo;China;None;None;None
+Técnicas Reunidas multiplica por trece su beneficio en el primer trimestre;Técnicas Reunidas;Técnicas;nsubj;OTHER
+El beneficio del Santander se reduce un 49 por los tipos de cambio;Santander;None;None;None
+Guindos apunta a Italia como el mayor riesgo para la deuda en Europa y no descarta un efecto contagio;Italia;Italia;obj;LOC
+El Ibex sube un 18 en la semana y se queda a las puertas de los 9300 puntos;Ibex;Ibex;nsubj;ORG
+Ferrovial se adjudica el mantenimiento de la refinería más grande de Australia por 88 millones;Ferrovial;Ferrovial;nsubj;ORG
+El FMI calcula que el coronavirus puede costarle entre un 01 y un 02 al PIB mundial este año;PIB;PIB;obj;MISC
+El programa militar FCAS garantiza el crecimiento futuro de la empresa vasca ITP;ITP;None;None;None
+Airbus cierra sus plantas en España cuatro días y Volkswagen tres semanas;Airbus;Airbus;nsubj;ORG
+XTB Telefónica buscará los 85 euros si supera los 806 euros;Telefónica;None;None;None
+Baleares sanciona a Iberia con 448000 euros por aplicar la cláusula no show;Iberia;Iberia;obj;ORG
+El fondo holandés APG eleva su presencia en Viscofan a más del 10;APG;None;None;None
+Sanidad contradice a Comercio y prohíbe las rebajas por posibles aglomeraciones;rebajas;rebajas;obj;OTHER
+La pandemia no es una crisis global las tecnológicas ganan con el confinamiento;tecnologías;None;None;None
+Las gasolineras automáticas permiten ahorrar más de 320 euros al año a los consumidores;consumidores;consumidores;obj;OTHER
+Bélgica levanta el veto al acuerdo comercial con Canadá;Bélgica;Bélgica;nsubj;ORG
+MásMóvil se estrena siendo el valor que más sube en el Ibex 35 un 322;MásMóvil;MásMóvil;nsubj;ORG
+La tasa de paro salta al 1533 tras destruirse un millón de empleos;tasa de paro;tasa;nsubj;OTHER
+Ford contrata a los inquietantes perros robot de Boston Dynamic;Ford;Ford;nsubj;ORG
+Los bancos abren otra era de viviendas baratas;bancos;bancos;nsubj;OTHER
+Iberdrola construirá en Navarra un complejo eólico de 111 megavatios;Iberdrola;Iberdrola;nsubj;ORG
+La disolución de empresas se duplicó en junio respecto a mayo;disolución de empresas;disolución;nsubj;OTHER
+La Guardia Civil lanza una operación contra el fraude en el IVA de hidrocarburos y metales preciosos;La Guardia Civil;Guardia;nsubj;OTHER
+Telefónica prorroga el plan de bajas y subirá los sueldos un 15 en 2018;Telefónica;Telefónica;nsubj;ORG
+Acciones de Norwegian caen casi un 11  tras anunciar ampliación de capital;Acciones de Norwegian;Acciones;nsubj;OTHER
+Amazon triplicó sus ganancias en 2018 hasta alcanzar los 10073 millones;Amazon;Amazon;nsubj;ORG
+HM gana un 22 menos pero aguanta el tirón en España vende un 2 más;H&M;None;None;None
+El paro cierra 2016 con la mayor caída de la historia;paro;paro;nsubj;OTHER
+Iberdrola lanza un bono híbrido verde de al menos 500 millones;Iberdrola;Iberdrola;nsubj;ORG
+El FMI alerta a Italia de que sus políticas podrían dejar vulnerable al país ante los mercados;Italia;None;None;None
+El Consejo de Europa constata mejoras en Andorra contra el blanqueo;Andorra;None;None;None
+La reunión de Fomento con los estibadores acaba sin acuerdo;reunión de Fomento;reunión;nsubj;OTHER
+Empresas portuarias denuncian el vandalismo de los estibadores;Empresas portuarias;Empresas;nsubj;OTHER
+Hacienda advierte a 21500 usuarios de plataformas como Airbnb de que deben declarar todos sus ingresos;usuarios de plataformas;None;None;None
+Las CCAA cumplen por primera vez el plazo legal de pago a proveedores;CCAA;CCAA;nsubj;ORG
+La Bolsa de Hong Kong baja un 051  a media sesión;Bolsa;Bolsa;nsubj;OTHER
+El Sabadell da por fracasada su fusión con el BBVA;Sabadell;Sabadell;nsubj;ORG
+La chocolatera Natra ganó 23 millones de euros en 2018;Natra;None;None;None
+La Bolsa de México pierde un 036  al inicio de la sesión;Bolsa;Bolsa;nsubj;OTHER
+El Ibex 35 derriba al fin los 9270 puntos tras escalar un 24 en febrero;Ibex;Ibex;nsubj;OTHER
+Toyota y Carmera se alían para elaborar mapas en alta definición;Toyota;Toyota;nsubj;ORG
+Fráncfort sube moderadamente tras una negociación falta de impulsos;Fráncfort;Fráncfort;nsubj;LOC
+Vodafone emite 4000 millones en bonos para comprar activos de Liberty;Vodafone;Vodafone;nsubj;ORG
+Grecia emite bonos a 10 años en primera subasta desde primer rescate en 2010;Grecia;Grecia;nsubj;ORG
+Merck sube en 2018 el beneficio neto un 295  tras desinversiones;Merck;Merck;nsubj;ORG
+Los trabajadores de ITP en Sestao y Barakaldo piden una solución in extremis a sus despidos;trabajadores;trabajadores;nsubj;OTHER
+La Bolsa de Londres baja un 029  en la apertura;Bolsa;Bolsa;nsubj;OTHER
+La luz anticipa mañana otro récord con España congelada;luz;luz;nsubj;OTHER
+Interrumpidas las negociaciones para la fusión entre Carrefour y CoucheTard;negociaciones;negociaciones;nsubj;OTHER
+Iberdrola inicia este lunes su gran planta fotovoltaica en Usagre Badajoz;Iberdrola;Iberdrola;nsubj;ORG
+El PIB frena su crecimiento y se expande un 05 en el segundo trimestre;PIB;PIB;nsubj;MISC
+Liberbank gana 73 millones de euros en el primer semestre un 14 menos;Liberbank;Liberbank;nsubj;ORG
+Alcoa alerta de que peligra el futuro de su planta de aluminio en Lugo;Alcoa;Alcoa;nsubj;ORG
+Abanca dispuesto a protagonizar una fusión con otra entidad;Abanca;None;None;None
+Nissan ha recibido 179 millones de ayudas públicas desde 2009 según comité;Nissan;Nissan;nsubj;ORG
+Maroto anuncia que en septiembre volverán los viajes del Imserso;Imserso;None;None;None
+La Bolsa de Lisboa sube el 057  al cierre;Bolsa;Bolsa;nsubj;OTHER
+Cae la tasa de ahorro de los hogares en 2018 al mínimo histórico;tasa de ahorro;tasa;nsubj;OTHER
+Sólo el PSOE se enroca en mantener la subida del impuesto de matriculación;impuesto;None;None;None
+El precio medio de la vivienda aumentó el 55  en 2018 según la tasadora ST;vivienda;None;None;None
+Putin apoya a empresarios al inaugurar primera planta MercedesBenz en Moscú;Mercedes-Benz;None;None;None
+Siemens Gamesa lanza una nueva plataforma eólica terrestre de 58 MW;Siemens Gamesa;Siemens;nsubj;ORG
+Ghosn va a recibir una jubilación de 765000 euros al año de Renault;Ghosn;Ghosn;nsubj;PER
+Canarias impulsa que España sea pionera en autorizar naves de vuelo rasante;España;España;nsubj;LOC
+La Bolsa de París baja un 009  a la apertura;Bolsa;Bolsa;nsubj;OTHER
+La vivienda se encarece un 42  en eurozona y UE en último trimestre de 2018;vivienda;vivienda;nsubj;OTHER
+Rusia un país con excesiva presencia del Estado e infraestructuras insuficientes;Rusia;Rusia;nsubj;LOC
+Euskadi es la única comunidad con repunte del paro en marzo;Euskadi;Euskadi;nsubj;LOC
+Los ERTE se mantendrán hasta el próximo 30 de septiembre;ERTE;ERTE;nsubj;ORG
+Banco Sabadell cierra la venta del 80  de Solvia a Intrum por 241 millones;Sabadell;None;None;None
+Tokio 2020 Toyota desarrollará vehículos específicos para los Juegos Olímpicos y Paralímpicos;Toyota;None;None;None
+La facturación trimestral del grupo PSA baja un 11  interanual;PSA;None;None;None
+Los españoles conservan pesetas por valor de 1624 millones de euros;españoles;españoles;nsubj;OTHER
+Huelga en la mayor compañía minera de Mauritania casi paraliza la actividad;compañía minera;None;None;None
+Wall Street vuelve a las ventas afectado por la caída del petróleo;Wall Street;Wall;nsubj;LOC
+El precio de la gasolina sube un 173  y el del gasóleo un 121 ;gasolina;None;None;None
+Empresa de EEUU alcanza el mayor acuerdo del país en negocio de la marihuana;Empresa;Empresa;nsubj;OTHER
+Lyft pierde 1138 millones dólares en primeros resultados tras salida a bolsa;Lyft;Lyft;nsubj;ORG
+Los tuits de Trump y las tensiones geopolíticas tumban la Bolsa de Seúl;Bolsa;Bolsa;obj;OTHER
+Los cruceros reabren sus puertas con solo un quinto de su negocio;cruceros;cruceros;nsubj;OTHER
+CaixaBank reduce a 6950 las salidas del ERE para alcanzar un acuerdo;CaixaBank;CaixaBank;nsubj;ORG
+Rolls quiere acordar la venta de ITP antes del final de septiembre;Rolls;Rolls;nsubj;ORG
+Montoro anuncia que emprenderá en plena crisis catalana la mejora de la financiación autonómica;financiación autonómica;None;None;None
+Wall Street cierra en verde y el Dow Jones sube un 044 ;Wall Street;Wall;nsubj;LOC
+Telefónica sale de la Bolsa de Argentina por su escaso volumen de negociación;Telefónica;Telefónica;nsubj;ORG
+El precio del crudo de la OPEP baja un 031  hasta los 6966 dólaresbarril;crudo;None;None;None
+Thomas Cook cae un 1472  en Bolsa tras multiplicar por seis sus pérdidas;Thomas Cook;Thomas;nsubj;PER
+Adif multará a adjudicatarias que pacten concursos con el 10  del contrato;adjudicatarias;None;None;None
+La bolsa de Sao Paulo encadena tercera caída consecutiva en jornada volátil;bolsa;bolsa;nsubj;OTHER
+Italiana Enel abre parque eólico de 150 millones dólares en México;Italia Enel;None;None;None
+La Bolsa de Sao Paulo abre con un avance del 046  en primeras operaciones;Bolsa;Bolsa;nsubj;OTHER
+Sony eleva su apuesta por los juegos la música y el cine en streaming;Sony;Sony;nsubj;ORG
+Amancio Ortega enemigo del pueblo según Podemos ha pagado 11000 millones en impuestos desde 2014;Amancio Ortega;Amancio;nsubj;PER
+ELA aboga por mantener la huelga indefinida en Tubacex como garantía para negociar;Tubacex;None;None;None
+La Bolsa de Buenos Aires abre con un avance del 012 ;Bolsa;Bolsa;nsubj;OTHER
+Siemens Gamesa suministrará 232 megavatios a un parque de EDF en EEUU;Siemens Gamesa;Siemens;nsubj;ORG
+Santander y Unicaja los bancos favoritos de Goldman Sachs para ganar en bolsa;Santander;Santander;nsubj;LOC
+La guerra fría tecnológica entre EEUU y China acentúa el temor de Wall Street;Wall Street;None;None;None
+El petróleo de Texas cae un 06 y cierra en 5881 dólares el barril;petróleo;petróleo;nsubj;OTHER
+VozTelecom cierra un principio de acuerdo para comprar ComyMedia;VozTelecom;VozTelecom;nsubj;ORG
+El euríbor acelera su caída para marcar su media mensual más baja desde noviembre;euríbor;euríbor;nsubj;OTHER
+Caída de Google y de sus servicios de Gmail y Youtube en EEUU España y otros países europeos;Google;None;None;None
+Lenovo ofrecerá financiación por internet a través de Cetelem;Lenovo;Lenovo;nsubj;ORG
+La Bolsa de Sao Paulo pierde un 041  en la apertura;Bolsa;Bolsa;nsubj;OTHER
+España en la zona media de la digitalización europea lastrada por la formación y los precios;España;None;None;None
+La deuda pública marca nuevo récord con 12 billones de euros hasta marzo;deuda pública;deuda;nsubj;OTHER
+El Gobierno admite que la fortaleza del euro es una amenaza importante para el turismo en España;turismo;None;None;None
+Clece ofertará 1000 puestos laborales en la segunda edición de LaboralMAD;Clece;Clece;nsubj;ORG
+Las ventas de HM subieron un 6  interanual en el segundo trimestre;H&M;None;None;None
+Estados Unidos y China lideran la lista de superordenadores más potentes del mundo;Estados Unidos;Estados;nsubj;ORG
+NH gestionará los hoteles de Minor en Brasil y Portugal;NH;NH;nsubj;ORG
+El IBEX abre con pérdidas del 025  en una jornada sin referencias de EEUU;IBEX;IBEX;nsubj;ORG
+El Ibex vuelve a perder el 9000 lastrado por el Brexit y la guerra comercial;Ibex;Ibex;nsubj;ORG
+Carrefour y Glovo se alían en Francia España Italia y Argentina;Carrefour;Carrefour;nsubj;ORG
+Ericcson registró beneficio neto de 408 millones de euros en primer semestre;Ericcson;Ericcson;nsubj;PER
+El BCE concluye que Nordea tiene suficiente capital pero débil sistema datos;Nordea;Nordea;nsubj;ORG
+Adif dará el lunes el pistoletazo de salida a la liberalización ferroviaria;Adif;Adif;nsubj;ORG
+Continental revisa a la baja sus pronósticos de beneficio y facturación;Continental;Continental;nsubj;ORG
+Inquietud en el Banco de España;Banco;None;None;None
+Cellnex mejora su resultado y cierra el primer semestre en equilibrio;Cellnex;Cellnex;nsubj;ORG
+Colonial gana 338 millones en el primer semestre del año un 33  más;Colonial;Colonial;nsubj;ORG
+Unicaja Banco obtiene un beneficio neto de 116 millones en el primer semestre un 114 más;Unicaja Banco;Unicaja;nsubj;ORG
+Merlin gana 262 millones un 45 menos por la ausencia de extraordinarios;Merlin;Merlin;nsubj;ORG
+Iberdrola se adjudica el mayor número de lotes en subasta solar de Portugal;Iberdrola;Iberdrola;nsubj;ORG
+CaixaBank lidera venta de fondos de pensiones e inversión colectiva en España;CaixaBank;CaixaBank;nsubj;ORG
+Barclays gana 2271 millones de euros en el primer semestre un 269  más;Barclays;Barclays;nsubj;ORG
